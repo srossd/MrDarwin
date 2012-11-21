@@ -1,0 +1,169 @@
+[08:08:14] --- MrDarwin joined the channel.
+[08:09:36] #srossd# (#vasb) say Hi
+[08:10:02] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1312891802 lastspoken 1312891802
+[08:10:02] --- asking question number 0: Which of the following best describes how volcanic glass or obsidian is formed: W)  magma cools rapidly and crystals do not form X)  magma cools slowly and 1 large crystal is formed Y)  magma cools in direct contact with water Z)  magma is heated, cooled, then reheated
+[08:10:02] ---- it's the no. 1 in this game, rank timer started at: 1312891802
+[08:10:10] --- solved after 8 seconds by srossd with "W", now 1 points
+[08:10:24] --- asking question number 1: What stellar cataclysm resulted in the formation of the Crab nebula?
+[08:10:24] ---- it's the no. 2 in this game.
+[08:10:47] #srossd# help
+[08:10:54] ----- Tip number 0: S····N···
+[08:11:24] ----- Tip number 1: ·U····O··
+[08:11:29] #srossd# whoami
+[08:11:49] --- EXIT requested.
+[08:11:49] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[08:11:49] --- Saving configuration to moxquizz/moxquizz.rc ...
+[08:11:49] --- Configuration saved: 26 settings.
+[08:11:49] --- MrDarwin exited
+[08:11:49] **********************************************************************
+[08:11:54] ----- Tip number 2: ··P····V·
+[08:17:18] #srossd# chattr srossd P
+[08:17:26] #srossd# chattr srossd Q
+[08:17:37] --- MrDarwin joined the channel.
+[08:17:43] --- Game initialized
+[08:17:43] #srossd# !init 
+[08:18:21] --- asking question number 0: A fifty-fifty solution of distilled water and pure ethanol will appear: W)  clear  X)  cloudy Y)  purple Z)  heterogeneous
+[08:18:21] ---- it's the no. 3 in this game.
+[08:18:29] --- solved after 8 seconds by srossd with "W", now 2 points
+[08:18:40] --- EXIT requested.
+[08:18:40] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[08:18:40] --- Saving configuration to moxquizz/moxquizz.rc ...
+[08:18:40] --- Configuration saved: 26 settings.
+[08:18:40] --- MrDarwin exited
+[08:18:40] **********************************************************************
+[08:18:43] --- asking question number 1: How many wavelengths per second are equal to 5 kilohertz?
+[08:18:43] ---- it's the no. 4 in this game.
+[08:22:38] --- MrDarwin joined the channel.
+[08:22:48] --- Game initialized
+[08:22:48] #srossd# !init 
+[08:23:10] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1312892590 lastspoken 1312892590
+[08:23:10] --- asking question number 0: Convert 0.000328 × 10^–6into proper scientific notation:
+[08:23:10] ---- it's the no. 1 in this game, rank timer started at: 1312892590
+[08:23:50] --- solved by srossd manually.
+[08:23:50] #srossd# !solve 
+[08:24:04] --- asking question number 1: Which of the following is NOT true of the ozone layer: W)  beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is humanmade X)  the ozone molecule has 3 oxygen atoms Y)  in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule Z)  holes in the ozone layer are produced by global warming
+[08:24:04] ---- it's the no. 2 in this game.
+[08:24:09] --- Game paused after 5 seconds.  Quiz state was: asked
+[08:24:09] #srossd# !pause 
+[08:27:48] --- Game continued.
+[08:27:48] #srossd# !cont 
+[08:28:04] --- solved after 4 minutes by srossd with "Z", now 1 points
+[08:28:19] --- asking question number 2: The outdoor temperature at 6:00 AM is –8ºC.  If it rises at a rate of 3ºC per hour, what is the temperature, in degrees Celsius, at noon?
+[08:28:19] ---- it's the no. 3 in this game.
+[08:28:37] --- solved after 18 seconds by srossd with "10", now 2 points
+[08:28:51] --- asking question number 3: When the following chemical equation is balanced, the coefficient of oxygen will be what value:  CH4 + O2 ? CO2 + H2O
+[08:28:51] ---- it's the no. 4 in this game.
+[08:29:04] --- solved after 13 seconds by srossd with "2", now 3 points
+[08:29:04] --- srossd has three in a row.
+[08:29:19] --- asking question number 4: Which of the following is CLOSEST to 56 miles per hour in kilometers per hour: W)  20 X)  50 Y)  90 Z)  120
+[08:29:19] ---- it's the no. 5 in this game.
+[08:29:31] --- solved after 12 seconds by srossd with "Y", now 4 points
+[08:29:45] --- asking question number 5: What is the general name for the rising and falling of sea levels in response to the forces exerted by the Moon and Sun?
+[08:29:45] ---- it's the no. 6 in this game.
+[08:29:50] --- solved after 5 seconds by srossd with "tides", now 5 points
+[08:29:50] --- srossd has five in a row.  score++
+[08:29:50] --- rankset requested by MrDarwin: srossd +1
+[08:30:05] --- asking question number 6: Which of the following is NOT true of the Big Dipper:  W)  it is a well known constellation that can be seen from mid-northern latitudes X)  it appears on the opposite side of the North Star from Cassiopeia  Y)  it is sometimes called the Plough Z)  assuming clear skies, it can be seen throughout the night every night of the year from midnorthern latitudes
+[08:30:05] ---- it's the no. 7 in this game.
+[08:30:51] --- solved after 46 seconds by srossd with "W", now 7 points
+[08:31:07] --- asking question number 7: What is the general name for a plastic material composed of a polymer of styrene?
+[08:31:07] ---- it's the no. 8 in this game.
+[08:31:22] --- solved after 15 seconds by srossd with "polystyrene", now 8 points
+[08:31:37] --- asking question number 8: In 2005, into what celestial object did the Deep Impact probe crash into?
+[08:31:37] ---- it's the no. 9 in this game.
+[08:31:43] --- solved after 6 seconds by srossd with "comet", now 9 points
+[08:31:58] --- asking question number 9: A certain ore contains 2% of a precious metal.  How many tons of ore must theoretically be mined to obtain 16 tons of the metal?
+[08:31:58] ---- it's the no. 10 in this game.
+[08:32:07] --- solved after 9 seconds by srossd with "800", now 10 points
+[08:32:37] --- asking question number 10: Consider a catapult on a cliff 20 meters above the ground directly below.  If air resistance is ignored, how many seconds, rounded to the nearest whole second, will it take a rock launched horizontally from the catapult at 25 meters per second to hit the ground?
+[08:32:37] ---- it's the no. 11 in this game.
+[08:32:56] --- solved after 19 seconds by srossd with "2", now 11 points
+[08:32:56] --- srossd has ten in a row.  score += 3
+[08:32:56] --- rankset requested by MrDarwin: srossd +3
+[08:33:11] --- asking question number 11: Sometimes compared to a slow-moving glob of toothpaste extruding from a tube of toothpaste, which of the following has formed several times within the crater Mount Saint Helens since its 1980 eruption: W)  lava domes  X)  cinder cones Y)  flood basalts Z)  spatter cones
+[08:33:11] ---- it's the no. 12 in this game.
+[08:33:23] --- solved after 12 seconds by srossd with "X", now 15 points
+[08:33:38] --- asking question number 12: How many limbs are tetrapods typically considered to have?
+[08:33:38] ---- it's the no. 13 in this game.
+[08:33:44] --- Game paused after 6 seconds.  Quiz state was: asked
+[08:33:44] #srossd# !pause 
+[08:34:10] --- Game continued.
+[08:34:10] #srossd# !cont 
+[08:34:13] --- solved after 35 seconds by srossd with "4", now 16 points
+[08:34:28] --- asking question number 13: Find the next 3 terms of the arithmetic sequence whose first 3 terms are:  23, 15, 7
+[08:34:28] ---- it's the no. 14 in this game.
+[08:34:59] --- solved by srossd manually.
+[08:34:59] #srossd# !solve 
+[08:35:11] --- EXIT requested.
+[08:35:11] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[08:35:11] --- Saving configuration to moxquizz/moxquizz.rc ...
+[08:35:11] --- Configuration saved: 26 settings.
+[08:35:11] --- MrDarwin exited
+[08:35:11] **********************************************************************
+[08:35:14] --- asking question number 14: Progressing from the outside to the inside, what are the 3 basic embryonic germ layers in vertebrates?
+[08:35:14] ---- it's the no. 15 in this game.
+[08:36:08] --- MrDarwin joined the channel.
+[08:36:12] --- Game initialized
+[08:36:12] #srossd# !init 
+[08:36:30] --- asking question number 0: Name all of the following 4 elements that are produced in supernova and NOT by stars with masses similar to the Sun:  helium; carbon; oxygen; copper
+[08:36:30] ---- it's the no. 15 in this game.
+[08:36:39] --- solved after 9 seconds by srossd with "copper", now 17 points
+[08:36:53] --- asking question number 1: Giving your answer as north, south, east, or west, a southerly wind blows FROM what direction?
+[08:36:53] ---- it's the no. 16 in this game.
+[08:37:01] --- solved after 8 seconds by srossd with "south", now 18 points
+[08:37:16] --- asking question number 2: The presence of which of the following is the most important characteristic that allows xylem to function in plants: W)  plastids and chloroplasts X)  strong thick walls Y)  large fluid-filled vacuoles Z)  nuclei and endoplasmic reticulum
+[08:37:16] ---- it's the no. 17 in this game.
+[08:37:32] --- solved by srossd manually.
+[08:37:32] #srossd# !solve 
+[08:37:46] --- asking question number 3: Cartilage belongs to which of the following animal tissues types: W)  epithelial X)  connective Y)  nervous Z)  muscle
+[08:37:46] ---- it's the no. 18 in this game.
+[08:37:58] --- solved after 12 seconds by srossd with "X", now 19 points
+[08:38:12] --- asking question number 4: The acidity of a water sample with a pH of 5 is how many times as great as that of a sample with a pH of 6?
+[08:38:12] ---- it's the no. 19 in this game.
+[08:38:26] --- solved by srossd manually.
+[08:38:26] #srossd# !solve 
+[08:38:33] --- Game paused.  Quiz state was: waittoask
+[08:38:33] #srossd# !pause 
+[08:39:10] --- EXIT requested.
+[08:39:10] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[08:39:10] --- Saving configuration to moxquizz/moxquizz.rc ...
+[08:39:10] --- Configuration saved: 26 settings.
+[08:39:10] --- MrDarwin exited
+[08:39:10] **********************************************************************
+[08:40:10] --- MrDarwin joined the channel.
+[08:40:14] --- Game initialized
+[08:40:14] #srossd# !init 
+[08:40:27] --- asking question number 0: Name all of the following 3 substances that will likely form a weak electrolyte when dissolved in pure water:  acetic acid; magnesium chloride; sodium hydroxide
+[08:40:27] ---- it's the no. 20 in this game.
+[08:40:43] --- solved after 16 seconds by srossd with "acetic acid; sodium hydroxide", now 20 points
+[08:41:12] --- asking question number 1: Keratins are considered structural proteins.  This is because they are most often arranged in which of the following shapes:  W)  long, thin fibers X)  spherical and smooth Y)  short and irregular  Z)  small, irregular, and hydrophilic
+[08:41:12] ---- it's the no. 21 in this game.
+[08:41:31] --- solved after 19 seconds by srossd with "W", now 21 points
+[08:41:46] --- asking question number 2: Regarding computer technology, which of the following BEST describes the bit: W)  an analogue magnetic storage sequence  X)  a computer processor Y)  a memory value of 1 through 8 Z)  a binary digit that stores information
+[08:41:46] ---- it's the no. 22 in this game.
+[08:42:16] --- solved after 30 seconds by srossd with "Z", now 22 points
+[08:42:16] --- srossd has three in a row.
+[08:42:30] --- asking question number 3: Evaluate x/y when x = 0 and y = -8:
+[08:42:30] ---- it's the no. 23 in this game.
+[08:42:32] --- set_score by srossd: 3
+[08:42:32] #srossd# !setscore 3
+[08:42:39] --- solved after 9 seconds by srossd with "0", now 25 points
+[08:43:09] --- asking question number 4: The prevailing westerlies converge and are caused to rise at which of the following latitudes: W)  0º X)  30º Y)  60º Z)  90º
+[08:43:09] ---- it's the no. 24 in this game.
+[08:43:19] --- solved after 10 seconds by srossd with "Y", now 26 points
+[08:43:19] --- srossd has five in a row.  score++
+[08:43:19] --- rankset requested by MrDarwin: srossd +1
+[08:43:34] --- asking question number 5: Which of the following BEST explains why the halogens are found in nature as compounds or ions: W)  they have an excess of neutrons and are unstable in pure form X)  they have 1 electron in their outer shell Y)  they need only one electron to fill their outermost shell so they are highly reactive Z)  they are non-metals with unfilled energy shells
+[08:43:34] ---- it's the no. 25 in this game.
+[08:43:39] --- set_score by srossd: 3
+[08:43:39] #srossd# !setscore 3
+[08:43:50] --- solved after 16 seconds by srossd with "Y", now 30 points
+[08:43:50] --- srossd was not saved to allstars since he/she was playing alone.
+[08:43:50] --- Ranks reset by MrDarwin at 1312893830.
+[08:44:17] --- EXIT requested.
+[08:44:17] --- Saving configuration to moxquizz/moxquizz.rc ...
+[08:44:17] --- Configuration saved: 26 settings.
+[08:44:17] --- MrDarwin exited
+[08:44:17] **********************************************************************
+[08:44:20] --- asking question number 6: Which of the following gives glacial meltwater a quality which is commonly described as glacial milk: W)  ice crystals in the water X)  the abundance of trapped air Y)  large amounts of suspended material Z)  the abundance of cyanobacteria
+[08:44:20] ---- it's the no. 1 in this game, rank timer started at: 1312893860

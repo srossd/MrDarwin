@@ -1,0 +1,254 @@
+[11:32:41] --- MrDarwin joined the channel.
+[11:33:45] --- Game initialized
+[11:33:45] #srossd# !init 
+[11:33:55] --- asking question number 0: What is the degree measure of a semicircle?
+[11:33:55] ---- it's the no. 10 in this game.
+[11:34:04] --- solved after 9 seconds by srossd with "180", now 27 points
+[11:34:22] --- EXIT requested.
+[11:34:22] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[11:34:22] --- Saving configuration to moxquizz/moxquizz.rc ...
+[11:34:22] --- Configuration saved: 26 settings.
+[11:34:22] --- MrDarwin exited
+[11:34:22] **********************************************************************
+[11:36:21] --- MrDarwin joined the channel.
+[11:37:05] --- Game initialized
+[11:37:05] #srossd# !init 
+[11:37:09] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1314200229 lastspoken 1314200229
+[11:37:09] --- asking question number 0: Which of the following biological molecules make up the main part of the bilayer and hydrophobic region of the plasma cell membrane:  W)  oligosaccharides  (read as: oh-LEE-go-SACK-ah-rides) X)  carbohydrates Y)  phospholipids Z)  proteins
+[11:37:09] ---- it's the no. 1 in this game, rank timer started at: 1314200229
+[11:37:17] --- solved after 8 seconds by srossd with "Y", now 4 points
+[11:37:31] --- asking question number 1: Which of the following is NOT true of humidity: W)  relative humidity is a description of the water vapor content in air  X)  humans feel uncomfortable when the relative humidity is high because cooling from sweating is less effective Y)  dew points normally occur when the relative humidity of an air mass is 100% Z)  the dew point is measured in percent along with the relative humidity
+[11:37:31] ---- it's the no. 2 in this game.
+[11:37:49] --- solved after 18 seconds by srossd with "Z", now 14 points
+[11:38:19] --- asking question number 2: Which of the following is the best example of a graph of ordered pairs that directly shows how much one variable is directly affected by another: W)  box-and-whiskers plot  X)  scatter plot Y)  histogram Z)  pie chart
+[11:38:19] ---- it's the no. 3 in this game.
+[11:38:25] --- solved after 6 seconds by srossd with "X", now 18 points
+[11:38:25] --- srossd has three in a row.
+[11:38:39] --- asking question number 3: Arrange the following 4 choices from the one with the LOWEST mass to the HIGHEST mass:  virus; mouse spleen; mosquito; water molecule
+[11:38:39] ---- it's the no. 4 in this game.
+[11:39:03] --- solved after 24 seconds by srossd with "water molecule; virus; mosquito; mouse spleen", now 28 points
+[11:39:32] --- asking question number 4: In what structure of a nucleated cell are ribosomes assembled into their subunits?
+[11:39:32] ---- it's the no. 5 in this game.
+[11:39:39] --- solved after 7 seconds by srossd with "Nucleolus", now 32 points
+[11:39:39] --- srossd has five in a row.  score++
+[11:39:39] --- rankset requested by MrDarwin: srossd +1
+[11:39:39] --- srossd was not saved to allstars since he/she was playing alone.
+[11:39:39] --- Ranks reset by MrDarwin at 1314200379.
+[11:40:10] --- asking question number 5: How many degrees are in one-third of a right angle?
+[11:40:10] ---- it's the no. 1 in this game, rank timer started at: 1314200410
+[11:40:50] --- Game paused after 40 seconds.  Quiz state was: asked
+[11:40:50] #srossd# !pause 
+[11:41:21] --- Game continued.
+[11:41:21] #srossd# !cont 
+[11:41:25] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1314200485 lastspoken 1314200485
+[11:41:25] --- solved after 1 minute 15 seconds by srossd with "30", now 10 points
+[11:41:41] --- Game paused.  Quiz state was: waittoask
+[11:41:41] #srossd# !pause 
+[11:43:14] --- EXIT requested.
+[11:43:14] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[11:43:14] --- Saving configuration to moxquizz/moxquizz.rc ...
+[11:43:14] --- Configuration saved: 26 settings.
+[11:43:14] --- MrDarwin exited
+[11:43:14] **********************************************************************
+[11:44:32] --- MrDarwin joined the channel.
+[11:44:36] --- asking question number 0: How many degrees are in the 4th angle of a quadrilateral whose other 3 angles are 85º, 95º, and 100º?
+[11:44:36] ---- it's the no. 2 in this game.
+[11:44:55] --- solved after 19 seconds by srossd with "80", now 14 points
+[11:45:09] --- asking question number 1: What astronomical unit for distance is derived from the parallax of one second of arc?
+[11:45:09] ---- it's the no. 3 in this game.
+[11:45:16] --- solved after 7 seconds by srossd with "parsec", now 24 points
+[11:45:16] --- srossd has three in a row.
+[11:45:30] <<srossd>> !srossd! !rank 
+[11:45:31] --- asking question number 2: Which of the following does the prefix photo- (spell out the letters p, h, o, t, o) mean, as in the word photometer: W)  record (read as: REE-cord) X)  light Y)  measure Z)  expose
+[11:45:31] ---- it's the no. 4 in this game.
+[11:45:38] --- solved after 7 seconds by srossd with "X", now 28 points
+[11:45:53] --- asking question number 3: Which of the following is most likely if a healthy hellbender population is found in a stream: W)  they should be eradicated because they eat all the predatory fish X)  they are venomous creatures and are a threat to people Y)  their presence is an excellent indicator that the water quality of the stream is good Z)  their presence is an excellent indicator that the stream is polluted with heavy metals and PCB's
+[11:45:53] ---- it's the no. 5 in this game.
+[11:46:01] --- solved after 8 seconds by srossd with "Y", now 38 points
+[11:46:01] --- srossd has five in a row.  score++
+[11:46:01] --- rankset requested by MrDarwin: srossd +1
+[11:46:15] --- asking question number 4: By name or number, arrange the following 3 choices from the one with the LOWEST temperature to the HIGHEST temperature:  coldest temperature recorded on Earth; average surface temperature of Saturn; coldest ocean water temperature
+[11:46:15] ---- it's the no. 6 in this game.
+[11:47:04] --- solved by srossd manually.
+[11:47:04] #srossd# !solve 
+[11:47:19] --- asking question number 5: What is the most common term for the principal, rule or effect, that explains what is referred to by astronomers as blue shift?
+[11:47:19] ---- it's the no. 7 in this game.
+[11:47:33] --- solved after 14 seconds by srossd with "Doppler effect", now 49 points
+[11:47:48] --- asking question number 6: Using proper chemical formulas, finish balancing the following equation:  N2 + 3H2 ? what?
+[11:47:48] ---- it's the no. 8 in this game.
+[11:48:12] --- solved after 24 seconds by srossd with "2NH3", now 53 points
+[11:48:27] --- asking question number 7: What human gland releases thyroid-stimulating hormone and oxytocin (read as: OX-ee-TOE-sin) into the blood?
+[11:48:27] ---- it's the no. 9 in this game.
+[11:48:37] --- solved after 10 seconds by srossd with "pituitary", now 63 points
+[11:48:37] --- srossd has three in a row.
+[11:48:52] --- asking question number 8: Which of the following is considered the dominant generation in flowering plants: W)  hypocotyl  X)  sporophyte Y)  gametophyte Z)  anthophyte
+[11:48:52] ---- it's the no. 10 in this game.
+[11:49:08] --- solved after 16 seconds by srossd with "X", now 67 points
+[11:49:37] --- asking question number 9: Which of the following BEST describes how the SI unit called the Newton is derived: W)  the product of force times time X)  the energy in one kilogram traveling at one meter per second Y)  the force needed to accelerate 1 kilogram at one meter per second squared Z)  the power needed to accelerate 1 kilogram at one kilometer per hour
+[11:49:37] ---- it's the no. 11 in this game.
+[11:49:44] --- solved after 7 seconds by srossd with "Y", now 77 points
+[11:49:44] --- srossd has five in a row.  score++
+[11:49:44] --- rankset requested by MrDarwin: srossd +1
+[11:49:59] --- asking question number 10: Using proper chemical formulas, finish balancing the following equation:  Ba(OH)2 + 2HCl yields what?
+[11:49:59] ---- it's the no. 12 in this game.
+[11:50:59] --- solved after 1 minute by srossd with "BaCl2 + 2H2O", now 82 points
+[11:51:14] --- asking question number 11: How many pairs of wings do beetles typically have?
+[11:51:14] ---- it's the no. 13 in this game.
+[11:51:21] --- solved after 7 seconds by srossd with "2", now 92 points
+[11:51:36] --- asking question number 12: Which of the following MUST change if constructive interference occurs between two light waves: W)  compression X)  frequency Y)  amplitude Z)  speed
+[11:51:36] ---- it's the no. 14 in this game.
+[11:51:42] --- solved after 6 seconds by srossd with "Y", now 96 points
+[11:51:56] --- asking question number 13: Which of the following is the pigment responsible for the characteristic red color of the cranberry: W)  red dye number 2 X)  carotene Y)  carmine red Z)  anthocyanin
+[11:51:56] ---- it's the no. 15 in this game.
+[11:52:02] --- solved after 6 seconds by srossd with "Z", now 106 points
+[11:52:17] --- asking question number 14: How many wavelengths per second are equal to 5 kilohertz?
+[11:52:17] ---- it's the no. 16 in this game.
+[11:52:36] --- solved after 19 seconds by srossd with "5,000", now 110 points
+[11:52:36] --- srossd has ten in a row.  score += 3
+[11:52:36] --- rankset requested by MrDarwin: srossd +3
+[11:52:50] --- asking question number 15: Which of the following astronomers devised a system of the orbits for the planets that is considered heliocentric and published in his book "On the Revolutions of the Heavenly Spheres": W)  Galileo X)  Copernicus  Y)  Newton Z)  Kepler
+[11:52:50] ---- it's the no. 17 in this game.
+[11:52:56] --- solved after 6 seconds by srossd with "X", now 123 points
+[11:53:11] --- asking question number 16: Which of the following is TRUE for the graph of the following two equations:  x + y = 8, and, 2x + 2y = 16 W)  they coincide  X)  they are perpendicular lines Y)  they are parallel lines  Z)  they are horizontal lines
+[11:53:11] ---- it's the no. 18 in this game.
+[11:53:19] --- solved after 8 seconds by srossd with "W", now 127 points
+[11:53:34] --- asking question number 17: Which of the following is the best explanation as to why germs that infect a certain family of animals will often NOT be able to infect a different family of animals: W)  different metabolic pathways exist in different animals X)  germs gain entry into cells by binding to receptors which are often specific to certain groups of organisms  Y)  the immune systems of different animals prevents infection of unusual diseases Z)  germs reproduce only when genes in a cell 
+[11:53:34] ---- it's the no. 19 in this game.
+[11:53:43] --- solved after 9 seconds by srossd with "X", now 137 points
+[11:54:12] --- asking question number 18: What is the identity element for addition on the integers?
+[11:54:12] ---- it's the no. 20 in this game.
+[11:54:14] --- rankset requested by srossd: srossd 132
+[11:54:14] #srossd# !rankset srossd 132
+[11:54:21] --- solved after 9 seconds by srossd with "0", now 136 points
+[11:54:51] --- asking question number 19: In the real numbers, a number times its multiplicative inverse equals what?
+[11:54:51] ---- it's the no. 21 in this game.
+[11:54:56] --- solved after 5 seconds by srossd with "1", now 146 points
+[11:55:10] --- asking question number 20: Which of the following is typically used to sterilize laboratory glassware: W)  hot plate X)  freeze dryer Y)  autoclave  Z)  fume hood
+[11:55:10] ---- it's the no. 22 in this game.
+[11:55:19] --- solved after 9 seconds by srossd with "Y", now 150 points
+[11:55:33] --- asking question number 21: Find the elapsed time, in hours and minutes reduced to their lowest terms, between 12:15 AM and 5:05 PM.
+[11:55:33] ---- it's the no. 23 in this game.
+[11:56:23] --- solved by srossd manually.
+[11:56:23] #srossd# !solve 
+[11:56:37] --- asking question number 22: Give the numerical value of 8 factorial divided by 8 factorial:
+[11:56:37] ---- it's the no. 24 in this game.
+[11:57:03] --- solved after 26 seconds by srossd with "1", now 154 points
+[11:57:18] --- asking question number 23: If the angle of incidence for a beam of light on a mirror is 27 degrees, what is the angle of reflection, in degrees?
+[11:57:18] ---- it's the no. 25 in this game.
+[11:57:24] --- solved after 6 seconds by srossd with "27", now 164 points
+[11:57:38] --- asking question number 24: Which of the following must be TRUE for a tree that doubled its mass over a growing period of 2 years: W)  it has doubled its volume X)  it has doubled its number of atoms Y)  it has doubled its inertia Z)  it has doubled its density
+[11:57:38] ---- it's the no. 26 in this game.
+[11:57:44] --- solved after 6 seconds by srossd with "Y", now 168 points
+[11:57:44] --- srossd has three in a row.
+[11:57:58] --- asking question number 25: In which of the following climates are the WIDEST ANNUAL temperature variations or temperature ranges most likely to occur: W)  continental polar X)  moist tropical Y)  tropical savanna Z)  mid-latitude moist continental
+[11:57:58] ---- it's the no. 27 in this game.
+[11:58:20] --- solved after 22 seconds by srossd with "Z", now 178 points
+[11:58:34] --- asking question number 26: Which of the following is a crystalline material found in arctic regions and within relatively shallow marine sediments that is sometimes called "burning ice" and may one day be used as a vast energy source: W)  methane gas hydrate X)  liquid hydrogen Y)  sublimated helium Z)  coal gas
+[11:58:34] ---- it's the no. 28 in this game.
+[11:58:52] --- solved after 18 seconds by srossd with "W", now 182 points
+[11:58:52] --- srossd has five in a row.  score++
+[11:58:52] --- rankset requested by MrDarwin: srossd +1
+[11:59:06] --- asking question number 27: Name all of the following 4 choices of eukaryotic sub-cellular structures that do NOT have their own specific membrane:  chloroplast; lysosome; centriole; golgi
+[11:59:06] ---- it's the no. 29 in this game.
+[11:59:20] --- solved after 14 seconds by srossd with "centriole", now 193 points
+[11:59:35] --- asking question number 28: What stellar cataclysm resulted in the formation of the Crab nebula?
+[11:59:35] ---- it's the no. 30 in this game.
+[11:59:44] --- solved after 9 seconds by srossd with "supernova", now 197 points
+[12:00:13] --- asking question number 29: Which of the following best describes what occurs to the solar wind as it approaches close to the planet Earth: W)  it is absorbed by the troposphere and significantly heats the upper atmosphere X)  it forms cosmic rays that create the Van Allen belts Y)  it is largely deflected by the Earth's magnetosphere  Z)  it causes a shock wave to form, creating what is called a termination shock in the Earth's ionosphere
+[12:00:13] ---- it's the no. 31 in this game.
+[12:00:28] --- solved after 15 seconds by srossd with "Y", now 207 points
+[12:00:28] --- srossd was not saved to allstars since he/she was playing alone.
+[12:00:28] --- Ranks reset by MrDarwin at 1314201628.
+[12:00:42] --- EXIT requested.
+[12:00:42] --- Saving configuration to moxquizz/moxquizz.rc ...
+[12:00:42] --- Configuration saved: 26 settings.
+[12:00:42] --- MrDarwin exited
+[12:00:42] **********************************************************************
+[13:49:57] --- MrDarwin joined the channel.
+[13:50:03] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1314208203 lastspoken 1314208203
+[13:50:03] --- asking question number 0: If $1,000 is invested at a simple interest rate of 10% annually, at the end of 3 years, what is the total interest earned?
+[13:50:03] ---- it's the no. 1 in this game, rank timer started at: 1314208203
+[13:50:29] --- solved after 26 seconds by srossd with "$300.00", now 4 points
+[13:50:44] --- asking question number 1: Which of the following is LEAST likely to be found in or on a root of a flowering plant: W)  stomata X)  epidermis Y)  xylem Z)  phloem
+[13:50:44] ---- it's the no. 2 in this game.
+[13:50:49] --- solved after 5 seconds by srossd with "W", now 14 points
+[13:51:03] --- asking question number 2: Which of the following is a coastal morphology most characteristic of the west coast of the U.S.: W)  numerous estuaries X)  depositional coast Y)  extensive barrier islands Z)  rocky coast with small spits and pocket beaches
+[13:51:03] ---- it's the no. 3 in this game.
+[13:51:15] --- solved after 12 seconds by srossd with "Z", now 18 points
+[13:51:15] --- srossd has three in a row.
+[13:51:29] --- asking question number 3: What basic force of the universe most directly functions to keep the nucleus of an atom together?
+[13:51:29] ---- it's the no. 4 in this game.
+[13:51:38] --- solved after 9 seconds by srossd with "strong force", now 28 points
+[13:51:53] --- asking question number 4: A hardware store-owner buys a 100-pound box of nails for $200.  If the owner repackages the nails into 2-pound bags and sells them each for $6.00 per bag, find his profit in dollars after selling all the nails:
+[13:51:53] ---- it's the no. 5 in this game.
+[14:59:45] --- srossd joined the channel.
+[15:01:29] --- solved after 1 hour 9 minutes 36 seconds by srossd with "$100.00", now 32 points
+[15:01:29] --- srossd has five in a row.  score++
+[15:01:29] --- rankset requested by MrDarwin: srossd +1
+[15:01:43] --- asking question number 5: Which of the following is NOT a key step in the nitrogen cycle: W)  nitrification X)  assimilation Y)  ammonification Z)  evaporation
+[15:01:43] ---- it's the no. 6 in this game.
+[15:01:54] --- solved after 11 seconds by srossd with "Z", now 43 points
+[15:02:08] --- asking question number 6: Which of the following is NOT true regarding B-vitamins: W)  they are fat soluble X)  there are more than 5 different B-vitamins Y)  niacin is a B-vitamin Z)  vitamin B-12 is found in meat, milk and eggs
+[15:02:08] ---- it's the no. 7 in this game.
+[15:02:11] --- Game paused after 3 seconds.  Quiz state was: asked
+[15:02:11] #srossd# !pause 
+[15:02:37] --- Ranks reset by srossd at 1314212557.
+[15:02:37] #srossd# !rankreset 
+[15:02:48] --- Game continued.
+[15:02:48] #srossd# !cont 
+[15:02:54] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1314212574 lastspoken 1314212574
+[15:02:54] --- solved after 46 seconds by srossd with "W", now 4 points
+[15:03:09] --- asking question number 7: Which of the following does the prefix endo (spell out the letters e, n, d, o)  mean, as in the word endoscope: W)  under X)  dark Y)  inside Z)  invisible
+[15:03:09] ---- it's the no. 1 in this game, rank timer started at: 1314212589
+[15:03:20] --- solved after 11 seconds by srossd with "Y", now 14 points
+[15:03:34] --- asking question number 8: Which of the following best describes the following reaction:  2Mg + O2 -> 2MgO W)  combination  X)  decomposition Y)  single replacement Z)  combustion
+[15:03:34] ---- it's the no. 2 in this game.
+[15:03:44] --- solved after 10 seconds by srossd with "W", now 18 points
+[15:03:44] --- srossd has three in a row.
+[15:03:59] --- asking question number 9: Sometimes compared to a slow-moving glob of toothpaste extruding from a tube of toothpaste, which of the following has formed several times within the crater Mount Saint Helens since its 1980 eruption: W)  lava domes  X)  cinder cones Y)  flood basalts Z)  spatter cones
+[15:03:59] ---- it's the no. 3 in this game.
+[15:04:16] --- solved after 17 seconds by srossd with "W", now 28 points
+[15:04:32] --- asking question number 10: Choosing from x-coordinate, y-coordinate, slope and height, what value of the graph of a linear function is always constant?
+[15:04:32] ---- it's the no. 4 in this game.
+[15:04:39] --- solved after 7 seconds by srossd with "slope", now 32 points
+[15:04:39] --- srossd has five in a row.  score++
+[15:04:39] --- rankset requested by MrDarwin: srossd +1
+[15:04:54] --- asking question number 11: The graph of which of the following equations passes through quadrants one and two: W)  x - 2 = 0  X)  y = x^2 Y)  x = 5y Z)  y + 3 = 0
+[15:04:54] ---- it's the no. 5 in this game.
+[15:05:14] --- solved after 20 seconds by srossd with "X", now 43 points
+[15:05:29] --- asking question number 12: If the density of a metal alloy is 5,430 kilograms per cubic meter, what is its specific gravity, rounded to the second decimal place?
+[15:05:29] ---- it's the no. 6 in this game.
+[15:05:55] --- solved after 26 seconds by srossd with "5.43", now 47 points
+[15:06:03] --- Game paused.  Quiz state was: waittoask
+[15:06:03] #srossd# !pause 
+[15:08:54] --- Game continued.
+[15:08:54] #srossd# !cont 
+[15:08:57] --- asking question number 13: Acid-base indicators are substances that change color with changing pH and are usually derived from: W)  plants X)  animals Y)  chemical sedimentary rocks Z)  alkaline Earth metal
+[15:08:57] ---- it's the no. 7 in this game.
+[15:09:05] --- solved after 8 seconds by srossd with "w", now 57 points
+[15:09:19] --- asking question number 14: What is the most common term for the principal, rule or effect, that explains what is referred to by astronomers as blue shift?
+[15:09:19] ---- it's the no. 8 in this game.
+[15:09:27] --- solved after 8 seconds by srossd with "Doppler effect", now 61 points
+[15:09:41] --- asking question number 15: The structure of proteins is classified from primary through quaternary levels.  Which level is determined by the sequence of its amino acids?
+[15:09:41] ---- it's the no. 9 in this game.
+[15:09:49] --- solved after 8 seconds by srossd with "primary", now 71 points
+[15:09:49] --- srossd has ten in a row.  score += 3
+[15:09:49] --- rankset requested by MrDarwin: srossd +3
+[15:10:19] --- asking question number 16: Arrange the following 3 pure substances in order of INCREASING evaporation rates at 1 atmosphere of pressure and at room temperature:  water; acetone; aluminum
+[15:10:19] ---- it's the no. 10 in this game.
+[15:10:48] --- solved by srossd manually.
+[15:10:48] #srossd# !solve 
+[15:11:02] --- asking question number 17: Any number, except zero, to the zero power equals what?
+[15:11:02] ---- it's the no. 11 in this game.
+[15:11:16] --- solved after 14 seconds by srossd with "1", now 84 points
+[15:11:30] --- asking question number 18: What is the name of the rock that makes up most of the ocean floor and volcanic ocean islands?
+[15:11:30] ---- it's the no. 12 in this game.
+[15:11:43] --- solved after 13 seconds by srossd with "basalt", now 88 points
+[15:11:57] --- asking question number 19: What two functional groups of amino acids join to form a peptide bond in a protein?
+[15:11:57] ---- it's the no. 13 in this game.
+[15:12:07] --- EXIT requested.
+[15:12:07] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[15:12:07] --- Saving configuration to moxquizz/moxquizz.rc ...
+[15:12:07] --- Configuration saved: 26 settings.
+[15:12:07] --- MrDarwin exited
+[15:12:07] **********************************************************************

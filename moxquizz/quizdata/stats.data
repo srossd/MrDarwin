@@ -1,0 +1,221 @@
+gamestart 1314200229
+solved 1314200237 srossd {8 seconds} 4 4
+solved 1314200269 srossd {18 seconds} 14 10
+solved 1314200305 srossd {6 seconds} 18 4
+tiar 1314200305 srossd 3 0
+solved 1314200343 srossd {24 seconds} 28 10
+solved 1314200379 srossd {7 seconds} 32 4
+tiar 1314200379 srossd 5 1
+rankset 1314200379 MrDarwin {srossd +1}
+gamewon 1314200379 srossd 33 30 150
+gamestart 1314200410
+solved 1314200485 srossd {1 minute 15 seconds} 10 10
+solved 1314200695 srossd {19 seconds} 14 4
+solved 1314200716 srossd {7 seconds} 24 10
+tiar 1314200716 srossd 3 0
+solved 1314200738 srossd {7 seconds} 28 4
+solved 1314200761 srossd {8 seconds} 38 10
+tiar 1314200761 srossd 5 1
+rankset 1314200761 MrDarwin {srossd +1}
+solved 1314200853 srossd {14 seconds} 49 10
+solved 1314200892 srossd {24 seconds} 53 4
+solved 1314200917 srossd {10 seconds} 63 10
+tiar 1314200917 srossd 3 0
+solved 1314200948 srossd {16 seconds} 67 4
+solved 1314200984 srossd {7 seconds} 77 10
+tiar 1314200984 srossd 5 1
+rankset 1314200984 MrDarwin {srossd +1}
+solved 1314201059 srossd {1 minute} 82 4
+solved 1314201081 srossd {7 seconds} 92 10
+solved 1314201102 srossd {6 seconds} 96 4
+solved 1314201122 srossd {6 seconds} 106 10
+solved 1314201156 srossd {19 seconds} 110 4
+tiar 1314201156 srossd 10 3
+rankset 1314201156 MrDarwin {srossd +3}
+solved 1314201176 srossd {6 seconds} 123 10
+solved 1314201199 srossd {8 seconds} 127 4
+solved 1314201223 srossd {9 seconds} 137 10
+rankset 1314201254 srossd {srossd 132}
+solved 1314201261 srossd {9 seconds} 136 4
+solved 1314201296 srossd {5 seconds} 146 10
+solved 1314201319 srossd {9 seconds} 150 4
+solved 1314201423 srossd {26 seconds} 154 4
+solved 1314201444 srossd {6 seconds} 164 10
+solved 1314201464 srossd {6 seconds} 168 4
+tiar 1314201464 srossd 3 0
+solved 1314201500 srossd {22 seconds} 178 10
+solved 1314201532 srossd {18 seconds} 182 4
+tiar 1314201532 srossd 5 1
+rankset 1314201532 MrDarwin {srossd +1}
+solved 1314201560 srossd {14 seconds} 193 10
+solved 1314201584 srossd {9 seconds} 197 4
+solved 1314201628 srossd {15 seconds} 207 10
+gamewon 1314201628 srossd 207 200 1314201592
+gamestart 1314208203
+solved 1314208229 srossd {26 seconds} 4 4
+solved 1314208249 srossd {5 seconds} 14 10
+solved 1314208275 srossd {12 seconds} 18 4
+tiar 1314208275 srossd 3 0
+solved 1314208298 srossd {9 seconds} 28 10
+solved 1314212489 srossd {1 hour 9 minutes 36 seconds} 32 4
+tiar 1314212489 srossd 5 1
+rankset 1314212489 MrDarwin {srossd +1}
+solved 1314212514 srossd {11 seconds} 43 10
+solved 1314212574 srossd {46 seconds} 4 4
+gamestart 1314212589
+solved 1314212600 srossd {11 seconds} 14 10
+solved 1314212624 srossd {10 seconds} 18 4
+tiar 1314212624 srossd 3 0
+solved 1314212656 srossd {17 seconds} 28 10
+solved 1314212679 srossd {7 seconds} 32 4
+tiar 1314212679 srossd 5 1
+rankset 1314212679 MrDarwin {srossd +1}
+solved 1314212714 srossd {20 seconds} 43 10
+solved 1314212755 srossd {26 seconds} 47 4
+solved 1314212945 srossd {8 seconds} 57 10
+solved 1314212967 srossd {8 seconds} 61 4
+solved 1314212989 srossd {8 seconds} 71 10
+tiar 1314212989 srossd 10 3
+rankset 1314212989 MrDarwin {srossd +3}
+solved 1314213076 srossd {14 seconds} 84 10
+solved 1314213103 srossd {13 seconds} 88 4
+gamestart 1314282654
+solved 1314282658 srossd {4 seconds} 4 4
+solved 1314282682 srossd {9 seconds} 14 10
+solved 1314282711 srossd {14 seconds} 18 4
+tiar 1314282711 srossd 3 0
+solved 1314282805 srossd {30 seconds} 22 4
+solved 1314282824 srossd {4 seconds} 32 10
+solved 1314282844 srossd {6 seconds} 36 4
+tiar 1314282844 srossd 3 0
+solved 1314282866 srossd {6 seconds} 46 10
+solved 1314282887 srossd {6 seconds} 50 4
+tiar 1314282887 srossd 5 1
+rankset 1314282887 MrDarwin {srossd +1}
+solved 1314282908 srossd {6 seconds} 61 10
+solved 1314282946 srossd {22 seconds} 65 4
+solved 1314282970 srossd {10 seconds} 75 10
+solved 1314283006 srossd {7 seconds} 79 4
+solved 1314283535 srossd {7 seconds} 83 4
+solved 1314283557 srossd {8 seconds} 93 10
+solved 1314283581 srossd {9 seconds} 97 4
+tiar 1314283581 srossd 3 0
+solved 1314283606 srossd {11 seconds} 107 10
+solved 1314283628 srossd {8 seconds} 111 4
+tiar 1314283628 srossd 5 1
+rankset 1314283628 MrDarwin {srossd +1}
+solved 1314283712 srossd {1 minute 10 seconds} 122 10
+solved 1314283758 srossd {31 seconds} 126 4
+solved 1314283788 srossd {16 seconds} 136 10
+solved 1314283887 srossd {1 minute 9 seconds} 140 4
+solved 1314283906 srossd {5 seconds} 150 10
+tiar 1314283906 srossd 10 3
+rankset 1314283906 MrDarwin {srossd +3}
+solved 1314283930 srossd {10 seconds} 157 4
+solved 1314283965 srossd {21 seconds} 167 10
+solved 1314283990 srossd {11 seconds} 171 4
+solved 1314284033 srossd {28 seconds} 181 10
+solved 1314284056 srossd {9 seconds} 185 4
+solved 1314284079 srossd {9 seconds} 195 10
+solved 1314284118 srossd {9 seconds} 199 4
+solved 1314284143 srossd {10 seconds} 209 10
+gamewon 1314284143 srossd 209 200 1314284010
+gamestart 1330643831
+solved 1330643926 srossd {1 minute 35 seconds} 4 4
+solved 1330643944 srossd {3 seconds} 14 10
+solved 1330643968 srossd {9 seconds} 18 4
+tiar 1330643968 srossd 3 0
+solved 1330643992 srossd {9 seconds} 28 10
+solved 1330644013 srossd {7 seconds} 32 4
+tiar 1330644013 srossd 5 1
+rankset 1330644013 MrDarwin {srossd +1}
+solved 1330644036 epicksl {8 seconds} 10 10
+solved 1330644055 srossd {5 seconds} 37 4
+solved 1330644075 srossd {5 seconds} 47 10
+solved 1330644112 srossd {23 seconds} 51 4
+tiar 1330644112 srossd 3 0
+solved 1330644131 tkamath2 {4 seconds} 10 10
+solved 1330644164 tkamath2 {19 seconds} 14 4
+solved 1330644252 srossd {4 seconds} 61 10
+solved 1330644276 tkamath2 {10 seconds} 18 4
+solved 1330644295 tkamath2 {5 seconds} 28 10
+solved 1330644315 srossd {5 seconds} 65 4
+solved 1330644334 tkamath2 {4 seconds} 38 10
+solved 1330644354 srossd {5 seconds} 69 4
+solved 1330644392 tkamath2 {8 seconds} 48 10
+solved 1330644417 srossd {11 seconds} 73 4
+solved 1330644436 tkamath2 {4 seconds} 58 10
+solved 1330644558 srossd {1 minute 47 seconds} 77 4
+solved 1330644583 tkamath2 {10 seconds} 68 10
+solved 1330644601 tkamath2 {4 seconds} 72 4
+solved 1330644620 tkamath2 {4 seconds} 82 10
+tiar 1330644620 tkamath2 3 0
+solved 1330644642 srossd {7 seconds} 81 4
+solved 1330644675 srossd {19 seconds} 91 10
+solved 1330644693 srossd {4 seconds} 95 4
+tiar 1330644693 srossd 3 0
+solved 1330644711 tkamath2 {4 seconds} 92 10
+solved 1330644729 srossd {4 seconds} 99 4
+solved 1330644748 tkamath2 {4 seconds} 102 10
+solved 1330644768 tkamath2 {5 seconds} 106 4
+solved 1330644787 srossd {5 seconds} 109 10
+solved 1330644806 srossd {5 seconds} 113 4
+solved 1330644846 srossd {26 seconds} 123 10
+tiar 1330644846 srossd 3 0
+solved 1330644864 tkamath2 {4 seconds} 110 4
+solved 1330644883 srossd {4 seconds} 133 10
+solved 1330644934 srossd {21 seconds} 137 4
+solved 1330644953 tkamath2 {5 seconds} 120 10
+solved 1330644972 tkamath2 {5 seconds} 124 4
+solved 1330644995 srossd {9 seconds} 147 10
+solved 1330645013 tkamath2 {3 seconds} 128 4
+solved 1330645036 srossd {8 seconds} 157 10
+solved 1330645055 srossd {4 seconds} 161 4
+solved 1330646276 srossd {6 seconds} 171 10
+tiar 1330646276 srossd 3 0
+solved 1330646296 tkamath2 {6 seconds} 132 4
+solved 1330646364 srossd {53 seconds} 181 10
+solved 1330646394 srossd {15 seconds} 185 4
+solved 1330646416 srossd {7 seconds} 195 10
+tiar 1330646416 srossd 3 0
+solved 1330646452 srossd {7 seconds} 199 4
+solved 1330646470 srossd {4 seconds} 209 10
+tiar 1330646470 srossd 5 1
+rankset 1330646470 MrDarwin {srossd +1}
+gamewon 1330646470 srossd 210 200 2693
+gamestart 1330646500
+solved 1330646506 srossd {6 seconds} 4 4
+solved 1330646529 epicksl {9 seconds} 10 10
+solved 1330646550 srossd {7 seconds} 8 4
+solved 1330646570 tkamath2 {6 seconds} 10 10
+solved 1330646590 srossd {5 seconds} 12 4
+solved 1330646608 tkamath2 {4 seconds} 20 10
+solved 1330646627 tkamath2 {5 seconds} 24 4
+solved 1330646664 srossd {22 seconds} 22 10
+solved 1330646888 srossd {4 seconds} 26 4
+solved 1330646910 tkamath2 {7 seconds} 34 10
+solved 1330646929 srossd {4 seconds} 30 4
+solved 1330646952 srossd {8 seconds} 40 10
+solved 1330647249 epicksl {4 minutes 43 seconds} 14 4
+solved 1330647269 srossd {5 seconds} 50 10
+solved 1330647338 srossd {55 seconds} 54 4
+solved 1330647360 tkamath2 {8 seconds} 44 10
+solved 1330647378 srossd {3 seconds} 58 4
+solved 1330647398 tkamath2 {5 seconds} 54 10
+solved 1330647416 srossd {3 seconds} 62 4
+solved 1330647435 tkamath2 {4 seconds} 64 10
+solved 1330647455 srossd {5 seconds} 66 4
+solved 1330647487 tkamath2 {3 seconds} 74 10
+solved 1330647506 tkamath2 {4 seconds} 78 4
+solved 1330647524 srossd {4 seconds} 76 10
+solved 1330647602 epicksl {1 minute 3 seconds} 18 4
+solved 1330647629 srossd {12 seconds} 86 10
+solved 1330647645 tkamath2 {1 second} 82 4
+solved 1330647668 srossd {9 seconds} 96 10
+solved 1330647686 srossd {4 seconds} 100 4
+solved 1330647713 srossd {12 seconds} 110 10
+tiar 1330647713 srossd 3 0
+solved 1330647732 srossd {5 seconds} 114 4
+solved 1330647750 srossd {4 seconds} 124 10
+tiar 1330647750 srossd 5 1
+rankset 13306477

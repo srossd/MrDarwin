@@ -1,0 +1,185 @@
+[19:31:02] --- MrDarwin joined the channel.
+[19:31:21] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1330475481 lastspoken 1330475481
+[19:31:49] ---- new user tkamath2: mask *!*62a9331f@*.mibbit.com score 0 started 1330475509 lastspoken 1330475509
+[19:35:01] --- asking question number 0: What northward-moving ocean current is the dominant feature generally located off the east coast of the U.S.?
+[19:35:01] ---- it's the no. 1 in this game, rank timer started at: 1330475701
+[19:36:05] #srossd# help
+[19:37:12] --- solved after 2 minutes 11 seconds by srossd with "gulf stream", now 4 points
+[19:37:27] --- asking question number 1: What staining method is used to generally divide bacteria into two groups?
+[19:37:27] ---- it's the no. 2 in this game.
+[19:37:35] --- solved after 8 seconds by srossd with "gram stain", now 14 points
+[19:37:50] --- asking question number 2: If the area of a rectangle is 200 centimeters squared and the length is 20 centimeters, what is the perimeter of the rectangle, in centimeters?
+[19:37:50] ---- it's the no. 3 in this game.
+[19:37:56] --- solved after 6 seconds by srossd with "60", now 18 points
+[19:37:56] --- srossd has three in a row.
+[19:38:10] --- asking question number 3: What is the maximum number of covalent bonds between any 2 carbon atoms?
+[19:38:10] ---- it's the no. 4 in this game.
+[19:38:14] --- solved after 4 seconds by srossd with "3", now 28 points
+[19:38:29] --- asking question number 4: Assuming it is in standard position, a 1081º angle will lie in what quadrant of the rectangular coordinate system?
+[19:38:29] ---- it's the no. 5 in this game.
+[19:39:52] --- solved after 1 minute 23 seconds by tkamath2 with "one", now 4 points
+[19:40:07] --- asking question number 5: Which of the following would be the most logical instrument to use when a small amount of suspended particles must be separated from a liquid: W)  pH meter  X)  centrifuge Y)  spectrometer Z)  tweezers
+[19:40:07] ---- it's the no. 6 in this game.
+[19:40:13] --- solved after 6 seconds by tkamath2 with "X", now 14 points
+[19:40:27] --- asking question number 6: Name all of the following 3 metabolic processes in vertebrate cells that release carbon dioxide as a byproduct:  glycolysis; citric acid cycle; oxidative phosphorylation
+[19:40:27] ---- it's the no. 7 in this game.
+[19:40:54] --- solved after 27 seconds by srossd with "glycolysis; citric acid cycle", now 32 points
+[19:41:09] --- asking question number 7: Progressing from the outside to the inside, what are the 3 basic embryonic germ layers in vertebrates?
+[19:41:09] ---- it's the no. 8 in this game.
+[19:42:03] --- solved after 54 seconds by srossd with "ectoderm; mesoderm; endoderm", now 42 points
+[19:42:17] --- asking question number 8: Phylogenetic systems of classifying organisms into various groups are mostly based on: W)  physical appearances X)  numbers of genes Y)  evolutionary history  Z)  environmental origins
+[19:42:17] ---- it's the no. 9 in this game.
+[19:42:22] --- solved after 5 seconds by srossd with "Y", now 46 points
+[19:42:22] --- srossd has three in a row.
+[19:42:37] --- asking question number 9: Which of the following is a carbonate mineral: W)  halite X)  fluorite Y)  feldspar Z)  dolomite
+[19:42:37] ---- it's the no. 10 in this game.
+[19:42:51] --- solved after 14 seconds by srossd with "Z", now 56 points
+[19:43:05] --- asking question number 10: The majority of stars in the universe are thought to have surface temperatures of: W)  about 20,000 K X)  about 10,000 K Y)  about 6,000 K Z)  less than 3,500 K
+[19:43:05] ---- it's the no. 11 in this game.
+[19:43:17] --- solved after 12 seconds by tkamath2 with "Z", now 18 points
+[19:43:29] <<srossd>> !srossd! !score 
+[19:43:31] --- asking question number 11: A carpenter is building a vertical wall and using one, 2-by-4 vertical stud every 16 inches.  If the wall is 8 feet long, how many vertical studs will he use?
+[19:43:31] ---- it's the no. 12 in this game.
+[19:43:52] --- solved after 21 seconds by srossd with "7", now 66 points
+[19:44:08] --- Game paused.  Quiz state was: waittoask
+[19:44:08] #srossd# !pause 
+[19:44:47] --- Game continued.
+[19:44:47] #srossd# !cont 
+[19:44:49] --- asking question number 12: Which of the following is NOT a spontaneous reaction under normal atmospheric pressure: W)  rusting of a ship's hull at sea X)  liquid water changing to water ice at 25ºC Y)  the combustion of propane in air Z)  evaporation of water above 212ºF
+[19:44:49] ---- it's the no. 13 in this game.
+[19:44:55] --- solved after 6 seconds by srossd with "X", now 70 points
+[19:45:10] --- asking question number 13: Which of Kepler's laws most directly leads us to have terms such as apogee, aphelion, and perigee?
+[19:45:10] ---- it's the no. 14 in this game.
+[19:45:16] --- solved after 6 seconds by tkamath2 with "1st law", now 28 points
+[19:45:31] --- asking question number 14: Which of the following is a region of Earth's atmosphere where convection is most likely to take place: W)  troposphere X)  stratosphere Y)  tropopause Z)  thermosphere
+[19:45:31] ---- it's the no. 15 in this game.
+[19:45:42] --- solved after 11 seconds by tkamath2 with "W", now 32 points
+[19:45:46] --- Game paused.  Quiz state was: waittoask
+[19:45:46] #srossd# !pause 
+[19:46:33] --- Game continued.
+[19:46:33] #srossd# !cont 
+[19:46:36] --- asking question number 15: Which of the following is NOT true of the ozone layer: W)  beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is humanmade X)  the ozone molecule has 3 oxygen atoms Y)  in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule Z)  holes in the ozone layer are produced by global warming
+[19:46:36] ---- it's the no. 16 in this game.
+[19:46:40] --- solved after 4 seconds by srossd with "Z", now 80 points
+[19:46:54] --- asking question number 16: Which of the following is the location of the human thymus gland: W)  upper chest X)  inguinal canal Y)  abdomen Z)  brain
+[19:46:54] ---- it's the no. 17 in this game.
+[19:46:59] --- solved after 5 seconds by srossd with "W", now 84 points
+[19:47:14] --- asking question number 17: Solve the following equation for x:  15x + 8x - 3x = 120
+[19:47:14] ---- it's the no. 18 in this game.
+[19:47:19] --- solved after 5 seconds by srossd with "6", now 94 points
+[19:47:19] --- srossd has three in a row.
+[19:47:34] --- asking question number 18: What is the most common name for the fluid in a spider that serves a similar function to blood in vertebrates?
+[19:47:34] ---- it's the no. 19 in this game.
+[19:48:28] --- solved after 54 seconds by srossd with "haemolymph it might be spelled", now 98 points
+[19:48:42] --- asking question number 19: Convert 1 million centimeters per hour into kilometers per hour:
+[19:48:42] ---- it's the no. 20 in this game.
+[19:48:49] --- solved after 7 seconds by srossd with "10", now 108 points
+[19:48:49] --- srossd has five in a row.  score++
+[19:48:49] --- rankset requested by MrDarwin: srossd +1
+[19:49:04] --- asking question number 20: In which of the following cells would myelin most likely be found:  W)  oocyte X)  red blood cell Y)  neuron Z)  skin cell
+[19:49:04] ---- it's the no. 21 in this game.
+[19:49:09] --- solved after 5 seconds by tkamath2 with "Y", now 36 points
+[19:49:23] --- asking question number 21: Which of the following most directly contributes to the actual mechanical advantage always being less than the ideal mechanical advantage: W)  the basic design of any machine X)  friction Y)  how simple machines are combined Z)  the input distance always being less than the output distance
+[19:49:23] ---- it's the no. 22 in this game.
+[19:49:29] --- solved after 6 seconds by srossd with "X", now 119 points
+[19:49:43] --- asking question number 22: If a staple-gun misfires 5 times for every 200 shots, how many times will it be expected to misfire in 4,000 shots?
+[19:49:43] ---- it's the no. 23 in this game.
+[19:49:51] --- solved after 8 seconds by tkamath2 with "100", now 40 points
+[19:50:05] --- asking question number 23: A botanist observes pollen grains suspended in water jittering about in a random fashion.  Another scientist observes similar random motion of coal dust on the surface of another liquid.  These are commonly considered an examples of: W)  speculative motion X)  Bose condensation Y)  Brownian motion Z)  osmosis
+[19:50:05] ---- it's the no. 24 in this game.
+[19:50:11] --- solved after 6 seconds by tkamath2 with "Y", now 50 points
+[19:50:25] --- asking question number 24: Which of the following molecules primarily functions to carry electrons from one place to another inside a cell:  W)  NAD+ X)  ATP Y)  UTP Z)  pyruvic acid
+[19:50:25] ---- it's the no. 25 in this game.
+[19:50:30] --- solved after 5 seconds by srossd with "W", now 123 points
+[19:50:44] --- asking question number 25: The human body is most commonly described as having what type of symmetry?
+[19:50:44] ---- it's the no. 26 in this game.
+[19:50:49] --- solved after 5 seconds by tkamath2 with "bilateral", now 60 points
+[19:51:04] --- asking question number 26: What is the most common globular protein in red blood cells?
+[19:51:04] ---- it's the no. 27 in this game.
+[19:51:10] --- solved after 6 seconds by tkamath2 with "hemoglobin", now 64 points
+[19:51:24] --- asking question number 27: Which one of the four basic forces of the universe is most directly involved with maintaining the planets in their orbits?
+[19:51:24] ---- it's the no. 28 in this game.
+[19:51:29] --- solved after 5 seconds by tkamath2 with "gravity", now 74 points
+[19:51:29] --- tkamath2 has three in a row.
+[19:51:43] --- asking question number 28: Arrange the following 3 choices in order of INCREASING speed:  3 feet per minute; 5 yards per minute; 30 yards per hour
+[19:51:43] ---- it's the no. 29 in this game.
+[19:51:59] --- solved after 16 seconds by tkamath2 with "30 yards per hour; 3 feet per minute; 5 yards per minute", now 78 points
+[19:52:14] --- asking question number 29: Which of the following 4 choices does NOT belong with the others:  sleet; anvil cloud; hail; lightning
+[19:52:14] ---- it's the no. 30 in this game.
+[19:52:21] --- solved after 7 seconds by tkamath2 with "sleet", now 88 points
+[19:52:21] --- tkamath2 has five in a row.  score++
+[19:52:21] --- rankset requested by MrDarwin: tkamath2 +1
+[19:52:35] --- asking question number 30: Which of the following is most important for climate because it transports large amounts of heat and moisture from the ocean to land: W)  tides X)  monsoons Y)  longshore drift Z)  erosion
+[19:52:35] ---- it's the no. 31 in this game.
+[19:52:40] --- solved after 5 seconds by srossd with "X", now 127 points
+[19:52:54] --- asking question number 31: Stainless steel is differentiated from other steels based mainly on the content of what element?
+[19:52:54] ---- it's the no. 32 in this game.
+[19:53:00] --- solved after 6 seconds by srossd with "chromium", now 137 points
+[19:53:29] --- asking question number 32: What human blood type has antibodies to only group A antigens?
+[19:53:29] ---- it's the no. 33 in this game.
+[19:54:18] --- solved after 49 seconds by srossd with "type b", now 141 points
+[19:54:18] --- srossd has three in a row.
+[19:54:33] --- asking question number 33: Which of the following instruments consists of a weighted glass tube or bulb, which is floated in a liquid to measure the liquid's relative density: W)  hydrometer X)  hypsometer Y)  densitometer Z)  sensometer
+[19:54:33] ---- it's the no. 34 in this game.
+[19:54:35] --- set_score by srossd: 20
+[19:54:35] #srossd# !setscore 20
+[19:54:39] --- solved after 6 seconds by tkamath2 with "W", now 109 points
+[19:54:53] --- asking question number 34: Which of the following liquids at room temperature and 1 atmosphere would have the GREATEST surface tension: W)  distilled water X)  ethanol Y)  methanol Z)  acetone
+[19:54:53] ---- it's the no. 35 in this game.
+[19:54:59] --- solved after 6 seconds by srossd with "W", now 145 points
+[19:55:13] --- asking question number 35: Which of the following is the chief constituent of limestone: W)  quartz X)  clay Y)  sand Z)  calcite
+[19:55:13] ---- it's the no. 36 in this game.
+[19:55:20] --- solved after 7 seconds by srossd with "Z", now 155 points
+[19:55:34] --- asking question number 36: Which of the following is NOT true about earthquakes: W)  the focus of an earthquake is the point from which energy is released X)  the epicenter is the point on Earth's surface directly above the focus Y)  lithospheric plate interactions commonly cause both earthquakes and volcanoes Z)  primary seismic waves cause the most damage to buildings during an earthquake
+[19:55:34] ---- it's the no. 37 in this game.
+[19:55:48] --- solved after 14 seconds by srossd with "Z", now 159 points
+[19:55:48] --- srossd has three in a row.
+[19:55:59] --- Game paused.  Quiz state was: waittoask
+[19:55:59] #srossd# !pause 
+[19:56:47] --- Game continued.
+[19:56:47] #srossd# !cont 
+[19:56:49] --- asking question number 37: The number 4.56 × 10^11 has how many zeroes?
+[19:56:49] ---- it's the no. 38 in this game.
+[19:56:55] --- solved after 6 seconds by tkamath2 with "9\\", now 119 points
+[19:57:09] --- asking question number 38: How many phalanges are in a human thumb?
+[19:57:09] ---- it's the no. 39 in this game.
+[19:57:23] --- solved after 14 seconds by tkamath2 with "2", now 123 points
+[19:57:37] --- asking question number 39: What term do scientists use for the force of gravity acting on anything that has mass?
+[19:57:37] ---- it's the no. 40 in this game.
+[19:57:42] --- solved after 5 seconds by srossd with "weight", now 169 points
+[19:57:57] --- asking question number 40: If a car travels at a rate of 50 miles per hour, what is the distance, in miles, traveled in 5 hours?
+[19:57:57] ---- it's the no. 41 in this game.
+[19:58:02] --- solved after 5 seconds by tkamath2 with "250 miles", now 127 points
+[19:58:16] --- asking question number 41: Which of the following BEST describes muscle tone: W)  maximum strength of a muscle X)  length versus width of a muscle Y)  average energy use or oxygen use of a fully contracted muscle Z)  amount of tension or contraction of a resting muscle
+[19:58:16] ---- it's the no. 42 in this game.
+[19:58:23] --- solved after 7 seconds by tkamath2 with "Z", now 137 points
+[19:58:37] --- asking question number 42: What is the common name for the plant from which the prized spice saffron is derived?
+[19:58:37] ---- it's the no. 43 in this game.
+[19:59:05] #srossd# !skip 
+[19:59:20] --- solved after 43 seconds by srossd with "crocus", now 173 points
+[19:59:32] --- set_score by srossd: srossd 169
+[19:59:32] #srossd# !setscore srossd 169
+[19:59:34] --- asking question number 43: The graph of which of the following equations has a negative slope: W)  y = 2x - 4  X)  y = - 2x + 4 Y)  y = - 4 Z)  x = - 2
+[19:59:34] ---- it's the no. 44 in this game.
+[19:59:40] --- solved after 6 seconds by srossd with "X", now 183 points
+[19:59:55] --- asking question number 44: Every triangle has how many vertices?
+[19:59:55] ---- it's the no. 45 in this game.
+[19:59:59] --- solved after 4 seconds by srossd with "3", now 187 points
+[19:59:59] --- srossd has three in a row.
+[20:00:13] --- asking question number 45: Which of the following is NOT true of genes: W)  they are a passed from generation to generation through chromosomes X)  they can come in dominant or recessive forms Y)  genes often lead to the production of a protein Z)  most of the DNA sequences in chromosomes are genes
+[20:00:13] ---- it's the no. 46 in this game.
+[20:00:18] --- solved after 5 seconds by srossd with "Z", now 197 points
+[20:00:48] --- asking question number 46: What uranium isotope is most common on Earth?
+[20:00:48] ---- it's the no. 47 in this game.
+[20:01:59] --- solved after 1 minute 11 seconds by srossd with "Uranium-238", now 201 points
+[20:01:59] --- srossd has five in a row.  score++
+[20:01:59] --- rankset requested by MrDarwin: srossd +1
+[20:01:59] --- saved srossd with 0.8000498783581586 points (now 1.617 points, pos 1) to the allstars file. Time: 1330477319
+[20:01:59] --- Ranks reset by MrDarwin at 1330477319.
+[20:02:02] ---- new user tkamath2: mask *!*62a9331f@*.mibbit.com score 0 started 1330477322 lastspoken 1330477322
+[20:02:28] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1330477348 lastspoken 1330477348
+[20:02:29] --- asking question number 47: What is the light-yellow fluid that makes up the fluid portion of normal circulating human blood?
+[20:02:29] ---- it's the no. 1 in this game, rank timer started at: 1330477349
+[20:02:32] --- Game paused after 3 seconds.  Quiz state was: asked
+[20:02:32] #srossd# !pause 
+[20:09:33] <<srossd>> !srossd! !allstars 

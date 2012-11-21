@@ -1,0 +1,39 @@
+[13:43:16] --- MrDarwin joined the channel.
+[13:44:47] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1313516687 lastspoken 1313516687
+[13:44:47] --- asking question number 0: Which of the following stars typically has the GREATEST density: W)  black dwarf  X)  neutron star  Y)  Main Sequence star Z)  Blue Giant
+[13:44:47] ---- it's the no. 1 in this game, rank timer started at: 1313516687
+[13:44:56] --- solved after 9 seconds by srossd with "X", now 1 points
+[13:45:06] --- set_score by srossd: 3
+[13:45:06] #srossd# !setscore 3
+[13:45:10] --- asking question number 1: Name all of the following biological molecules that are considered polymers:  glucose; cellulose; DNA; RNA
+[13:45:10] ---- it's the no. 2 in this game.
+[13:45:38] --- solved by srossd manually.
+[13:45:38] #srossd# !solve 
+[13:45:53] --- asking question number 2: A screw driver and a doorknob are considered variations of what simple machine?
+[13:45:53] ---- it's the no. 3 in this game.
+[13:46:03] --- solved after 10 seconds by srossd with "wheel and axle", now 2 points
+[13:46:17] --- asking question number 3: Which of the following does the prefix photo- (spell out the letters p, h, o, t, o) mean, as in the word photometer: W)  record (read as: REE-cord) X)  light Y)  measure Z)  expose
+[13:46:17] ---- it's the no. 4 in this game.
+[13:46:19] --- set_score by srossd: 25
+[13:46:19] #srossd# !setscore 25
+[13:46:24] --- solved after 7 seconds by srossd with "X", now 27 points
+[13:46:35] --- set_score by srossd: 10000000000
+[13:46:35] #srossd# !setscore 10000000000
+[13:46:55] --- asking question number 4: Which of the following laws most directly limits the ability of a simple machine to an efficiency of 100% or lower: W)  Hooke's law X)  law of equal proportions Y)  the first law of motion Z)  the law of conservation of energy
+[13:46:55] ---- it's the no. 5 in this game.
+[13:47:01] --- solved after 6 seconds by srossd with "Z", now 28 points
+[13:47:01] --- srossd has three in a row.
+[13:47:16] --- asking question number 5: Which of the following forms of winter precipitation is most likely to cause downed power lines and broken tree limbs:  W)  freezing rain X)  sleet Y)  snow Z)  hail
+[13:47:16] ---- it's the no. 6 in this game.
+[13:47:23] --- set_score by srossd: 50
+[13:47:23] #srossd# !setscore 50
+[13:47:44] --- solved after 28 seconds by srossd with "W X Y Z", now 78 points
+[13:47:44] --- srossd was not saved to allstars since he/she was playing alone.
+[13:47:44] --- Ranks reset by MrDarwin at 1313516864.
+[13:48:13] --- asking question number 6: How many times as much momentum does a truck have traveling at 40 kilometers per hour if it triples its mass?
+[13:48:13] ---- it's the no. 1 in this game, rank timer started at: 1313516893
+[13:48:15] --- EXIT requested.
+[13:48:15] --- Saving configuration to moxquizz/moxquizz.rc ...
+[13:48:15] --- Configuration saved: 26 settings.
+[13:48:15] --- MrDarwin exited
+[13:48:15] **********************************************************************

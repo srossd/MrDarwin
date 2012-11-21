@@ -1,0 +1,31 @@
+[19:30:53] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[19:30:53] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[19:31:02] MrDarwin joined #vasb.
+[19:32:00] #vasb is active but has no ops :(
+[19:32:18] CTCP chat:  from srossd (ad4f7974@ircip1.mibbit.com)
+[19:32:52] Telnet connection: localhost/38290
+[19:32:52] Timeout/EOF ident connection
+[19:32:56] Logged in: srossd (telnet@localhost/38290)
+[19:35:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[19:36:05] #srossd# help
+[19:40:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[19:43:29] <<srossd>> !srossd! !score 
+[19:44:08] #srossd# !pause 
+[19:44:47] #srossd# !cont 
+[19:45:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[19:45:46] #srossd# !pause 
+[19:46:33] #srossd# !cont 
+[19:50:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[19:54:35] #srossd# !setscore 20
+[19:55:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[19:55:59] #srossd# !pause 
+[19:56:47] #srossd# !cont 
+[19:59:05] #srossd# !skip 
+[19:59:32] #srossd# !setscore srossd 169
+[20:00:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:00:00] Writing user file...
+[20:00:00] Writing channel file...
+[20:02:32] #srossd# !pause 
+[20:05:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[20:09:33] <<srossd>> !srossd! !allstars 
+[20:10:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]

@@ -1,0 +1,143 @@
+[10:21:29] --- MrDarwin joined the channel.
+[10:28:48] --- Game initialized
+[10:28:48] #srossd# !init 
+[10:30:54] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1314282654 lastspoken 1314282654
+[10:30:54] --- asking question number 0: Cartilage belongs to which of the following animal tissues types: W)  epithelial X)  connective Y)  nervous Z)  muscle
+[10:30:54] ---- it's the no. 1 in this game, rank timer started at: 1314282654
+[10:30:58] --- solved after 4 seconds by srossd with "X", now 4 points
+[10:31:13] --- asking question number 1: Rounded to the nearest whole number, what is absolute zero in degrees Celsius?
+[10:31:13] ---- it's the no. 2 in this game.
+[10:31:22] --- solved after 9 seconds by srossd with "-273", now 14 points
+[10:31:37] --- asking question number 2: Which of the following materials in pure form would register the LOWEST amount of ohms for a given electric current at 20ºC if all other variables are constant: W)  silver X)  gold Y)  tin  Z)  lead
+[10:31:37] ---- it's the no. 3 in this game.
+[10:31:51] --- solved after 14 seconds by srossd with "W", now 18 points
+[10:31:51] --- srossd has three in a row.
+[10:32:05] --- asking question number 3: What are the most common names of the gametes produced by a human male and female, respectively?
+[10:32:05] ---- it's the no. 4 in this game.
+[10:32:40] --- solved by srossd manually.
+[10:32:40] #srossd# !solve 
+[10:32:55] --- asking question number 4: Which of the following does one arcsecond equal: W)  60 arcminutes X)  60 arcs Y)  1/60th of an arcminute Z)  1/360th of an arcminute
+[10:32:55] ---- it's the no. 5 in this game.
+[10:33:25] --- solved after 30 seconds by srossd with "Y", now 22 points
+[10:33:40] --- asking question number 5: Which of the following is the pigment responsible for the characteristic red color of the cranberry: W)  red dye number 2 X)  carotene Y)  carmine red Z)  anthocyanin
+[10:33:40] ---- it's the no. 6 in this game.
+[10:33:44] --- solved after 4 seconds by srossd with "Z", now 32 points
+[10:33:58] --- asking question number 6: Molasses flows more slowly than water.  What is the most common scientific term for the ability of different substances to flow more or less freely?
+[10:33:58] ---- it's the no. 7 in this game.
+[10:34:04] --- solved after 6 seconds by srossd with "viscosity", now 36 points
+[10:34:04] --- srossd has three in a row.
+[10:34:20] --- asking question number 7: Which of the following is similar to a delta but forms when a steep mountain stream spreads out from a mountain canyon onto a flat, broad valley: W)  alluvial fan X)  levee Y)  playa Z)  flood plain
+[10:34:20] ---- it's the no. 8 in this game.
+[10:34:26] --- solved after 6 seconds by srossd with "W", now 46 points
+[10:34:41] --- asking question number 8: Which of the following MUST change if constructive interference occurs between two light waves: W)  compression X)  frequency Y)  amplitude Z)  speed
+[10:34:41] ---- it's the no. 9 in this game.
+[10:34:47] --- solved after 6 seconds by srossd with "Y", now 50 points
+[10:34:47] --- srossd has five in a row.  score++
+[10:34:47] --- rankset requested by MrDarwin: srossd +1
+[10:35:02] --- asking question number 9: Which one of Newtons Laws of motion most directly deals with the resistance of a body to a change in its motion?
+[10:35:02] ---- it's the no. 10 in this game.
+[10:35:08] --- solved after 6 seconds by srossd with "first law", now 61 points
+[10:35:24] --- asking question number 10: Name all of the following 4 substances that will turn blue litmus paper red:  citric acid; carbonated water; ammonia; sodium hydroxide
+[10:35:24] ---- it's the no. 11 in this game.
+[10:35:46] --- solved after 22 seconds by srossd with "citric acid; carbonated water", now 65 points
+[10:36:00] --- asking question number 11: To the first decimal place, what is the ideal mechanical advantage of a lever with a resistance arm of 200 centimeters and an effort arm of 3.4 meters?
+[10:36:00] ---- it's the no. 12 in this game.
+[10:36:10] --- solved after 10 seconds by srossd with "1.7", now 75 points
+[10:36:39] --- asking question number 12: The glycemic index is an index that is used to directly predict the rate at which ingested food in the human diet will increase which of the following levels in the blood: W)  sugar  X)  lipid Y)  oxygen Z)  carbon dioxide
+[10:36:39] ---- it's the no. 13 in this game.
+[10:36:46] --- solved after 7 seconds by srossd with "W", now 79 points
+[10:37:00] --- asking question number 13: Which of the following optical devices produces a real image: W)  plane mirror X)  convex mirror Y)  concave lens Z)  convex lens
+[10:37:00] ---- it's the no. 14 in this game.
+[10:37:23] --- solved by srossd manually.
+[10:37:23] #srossd# !solve 
+[10:37:38] --- asking question number 14: Which of the following is CLOSEST to the volume of 4 liters in quarts: W)  3.8 X)  4.0 Y)  4.2 Z)  4.4
+[10:37:38] ---- it's the no. 15 in this game.
+[10:37:40] --- Game paused after 2 seconds.  Quiz state was: asked
+[10:37:40] #srossd# !pause 
+[10:39:52] --- Game continued.
+[10:39:52] #srossd# !cont 
+[10:40:23] --- solved by srossd manually.
+[10:40:23] #srossd# !solve 
+[10:40:37] --- asking question number 15: Into what organelle does the nuclear membrane get absorbed at the start of prophase?
+[10:40:37] ---- it's the no. 16 in this game.
+[10:41:00] #srossd# help
+[10:41:05] #srossd# !cont 
+[10:41:47] --- solved by srossd manually.
+[10:41:47] #srossd# !solve 
+[10:42:02] --- asking question number 16: Magmas that crystallize beneath the Earth's surface form intrusive bodies of igneous rock that are generally known as: W)  pumice  X)  plutons Y)  tuffs Z)  breccia
+[10:42:02] ---- it's the no. 17 in this game.
+[10:42:03] --- EXIT requested.
+[10:42:03] --- Ranks saved to "moxquizz/quizdata/rank.data".
+[10:42:03] --- Saving configuration to moxquizz/moxquizz.rc ...
+[10:42:03] --- Configuration saved: 26 settings.
+[10:42:03] --- MrDarwin exited
+[10:42:03] **********************************************************************
+[10:44:41] --- Game initialized
+[10:44:41] #srossd# !init 
+[10:45:13] --- MrDarwin joined the channel.
+[10:45:28] --- asking question number 0: Which of the following best describes the following reaction:  2Mg + O2 -> 2MgO W)  combination  X)  decomposition Y)  single replacement Z)  combustion
+[10:45:28] ---- it's the no. 18 in this game.
+[10:45:35] --- solved after 7 seconds by srossd with "W", now 83 points
+[10:45:49] --- asking question number 1: Which of the following is the closest synonym for motile: W)  having a motor X)  using energy Y)  able to move Z)  living in water
+[10:45:49] ---- it's the no. 19 in this game.
+[10:45:57] --- solved after 8 seconds by srossd with "Y", now 93 points
+[10:46:12] --- asking question number 2: In which of the following places would meiosis most likely occur in a mammal: W)  skin X)  liver Y)  heart Z)  ovary
+[10:46:12] ---- it's the no. 20 in this game.
+[10:46:21] --- solved after 9 seconds by srossd with "Z", now 97 points
+[10:46:21] --- srossd has three in a row.
+[10:46:35] --- asking question number 3: A circle has a circumference of 80p.  Giving your answer in terms of p, find the length of a 36º arc of this circle:
+[10:46:35] ---- it's the no. 21 in this game.
+[10:46:46] --- solved after 11 seconds by srossd with "8pi", now 107 points
+[10:47:00] --- asking question number 4: What is the astronomical term for the bright trail of a meteoroid passing through the atmosphere of the Earth?
+[10:47:00] ---- it's the no. 22 in this game.
+[10:47:08] --- solved after 8 seconds by srossd with "meteor", now 111 points
+[10:47:08] --- srossd has five in a row.  score++
+[10:47:08] --- rankset requested by MrDarwin: srossd +1
+[10:47:22] --- asking question number 5: Rounded to the nearest whole number, what is absolute zero in degrees Celsius?
+[10:47:22] ---- it's the no. 23 in this game.
+[10:48:32] --- solved after 1 minute 10 seconds by srossd with "-273", now 122 points
+[10:48:47] --- asking question number 6: Which of the following were NOT produced by the eruption of Mount Saint Helens in 1980: W)  lahar (read as: lah-HAR) flows X)  pyroclastic flows Y)  significant ashfall deposits Z)  basic lava
+[10:48:47] ---- it's the no. 24 in this game.
+[10:49:18] --- solved after 31 seconds by srossd with "Z", now 126 points
+[10:49:32] --- asking question number 7: What is the mass, in grams to the nearest whole number, of one cubic centimeter of pure water at standard temperature and pressure?
+[10:49:32] ---- it's the no. 25 in this game.
+[10:49:48] --- solved after 16 seconds by srossd with "1", now 136 points
+[10:50:18] --- asking question number 8: Arrange the following 4 choices from the one with the LOWEST mass to the HIGHEST mass:  decigram; microgram; centigram; hectogram
+[10:50:18] ---- it's the no. 26 in this game.
+[10:51:27] --- solved after 1 minute 9 seconds by srossd with "microgram; centigram; decigram; hectogram", now 140 points
+[10:51:41] --- asking question number 9: How many protons are present in a single helium nucleus?
+[10:51:41] ---- it's the no. 27 in this game.
+[10:51:46] --- solved after 5 seconds by srossd with "2", now 150 points
+[10:51:46] --- srossd has ten in a row.  score += 3
+[10:51:46] --- rankset requested by MrDarwin: srossd +3
+[10:52:00] --- asking question number 10: The prevailing westerlies converge and are caused to rise at which of the following latitudes: W)  0º X)  30º Y)  60º Z)  90º
+[10:52:00] ---- it's the no. 28 in this game.
+[10:52:10] --- solved after 10 seconds by srossd with "Y", now 157 points
+[10:52:24] --- asking question number 11: What is the most common name for the junctions across which nerve cells carry chemical messages from cell to cell?
+[10:52:24] ---- it's the no. 29 in this game.
+[10:52:45] --- solved after 21 seconds by srossd with "synapse", now 167 points
+[10:52:59] --- asking question number 12: What is the year of a person's death who was born in the year 580 BC and lived 63 years?
+[10:52:59] ---- it's the no. 30 in this game.
+[10:53:10] --- solved after 11 seconds by srossd with "517 BC", now 171 points
+[10:53:25] --- asking question number 13: Which of the following BEST explains whether a U.S.quarter will accelerate down an inclined plane faster than a silver ring of the same diameter, assuming both roll without slipping: W)  the ring accelerates faster because it has less inertia X)  the ring will accelerate slower because all its mass in the outer rim  Y)  the quarter will accelerate faster because it has more mass  Z)  the quarter will accelerate at the same rate as the ring since both have the same 
+[10:53:25] ---- it's the no. 31 in this game.
+[10:53:53] --- solved after 28 seconds by srossd with "W X Y Z", now 181 points
+[10:54:07] --- asking question number 14: Which of the following is a highly crystalline mineral with perfect cleavage:  W)  native gold X)  native silver Y)  graphite  Z)  halite
+[10:54:07] ---- it's the no. 32 in this game.
+[10:54:16] --- solved after 9 seconds by srossd with "Z", now 185 points
+[10:54:30] --- asking question number 15: If a chimpanzee were to throw darts at a Periodic Table, he would most likely hit an element with which of the following characteristics: W)  a naturally radioactive element X)  a solid at room temperature  Y)  a gas at room temperature Z)  a liquid at room temperature
+[10:54:30] ---- it's the no. 33 in this game.
+[10:54:39] --- solved after 9 seconds by srossd with "X", now 195 points
+[10:55:09] --- asking question number 16: What is the average acceleration, in kilometers per hour per second to the first decimal place, of a bird flying in a straight path from 0 to 50 kilometers per hour in 4 minutes and 10.0 seconds?
+[10:55:09] ---- it's the no. 34 in this game.
+[10:55:18] --- solved after 9 seconds by srossd with "0.2", now 199 points
+[10:55:33] --- asking question number 17: The greatest annual variation in the intensity of solar radiation on Earth throughout the year is in which of the following locations: W)  tropics X)  north of the Arctic Circle Y)  south of the Antarctic Circle Z)  temperate, middle latitude zone
+[10:55:33] ---- it's the no. 35 in this game.
+[10:55:43] --- solved after 10 seconds by srossd with "Z", now 209 points
+[10:55:43] --- srossd was not saved to allstars since he/she was playing alone.
+[10:55:43] --- Ranks reset by MrDarwin at 1314284143.
+[10:55:59] --- EXIT requested.
+[10:55:59] --- Saving configuration to moxquizz/moxquizz.rc ...
+[10:55:59] --- Configuration saved: 26 settings.
+[10:55:59] --- MrDarwin exited
+[10:55:59] **********************************************************************

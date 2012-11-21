@@ -1,0 +1,30 @@
+[19:57:31] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[19:57:31] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[19:57:39] MrDarwin joined #vasb.
+[19:58:00] #vasb is active but has no ops :(
+[19:59:38] CTCP chat:  from srossd (ad4f7974@ircip1.mibbit.com)
+[20:00:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:00:00] Writing user file...
+[20:00:00] Writing channel file...
+[20:00:16] Telnet connection: localhost/33225
+[20:00:16] Timeout/EOF ident connection
+[20:00:21] Logged in: srossd (telnet@localhost/33225)
+[20:00:27] #srossd# !init 
+[20:01:49] #srossd# !pause 
+[20:03:55] #srossd# !cont 
+[20:05:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:06:39] #srossd# !pause 
+[20:07:38] #srossd# !cont 
+[20:10:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:23:27] Last message repeated 2 time(s).
+[20:23:27] <<srossd>> !srossd! !score 
+[20:25:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:29:48] <<srossd>> !srossd! !allstars 
+[20:30:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:30:23] #srossd# !stop 
+[20:35:00] #vasb (+) : [m/3 o/0 h/0 v/0 n/3 b/0 e/0 I/0]
+[20:40:01] Last message repeated 1 time(s).
+[20:40:01] Lost dcc connection to srossd (telnet@localhost/33225)
+[20:40:26] Writing user file...
+[20:40:26] Writing channel file...
+[20:40:26] * TERMINATE SIGNAL -- SIGNING OFF

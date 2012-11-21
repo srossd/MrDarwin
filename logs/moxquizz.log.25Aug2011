@@ -1,0 +1,37 @@
+[10:21:21] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[10:21:21] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[10:21:29] MrDarwin joined #vasb.
+[10:22:00] #vasb is active but has no ops :(
+[10:25:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[10:28:26] CTCP CHAT:  from srossd (ad4f7974@ircip1.mibbit.com)
+[10:28:33] Telnet connection: 10.0.2.15/60451
+[10:28:33] Timeout/EOF ident connection
+[10:28:37] Logged in: srossd (telnet@10.0.2.15/60451)
+[10:28:48] #srossd# !init 
+[10:30:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[10:32:40] #srossd# !solve 
+[10:35:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[10:37:23] #srossd# !solve 
+[10:37:40] #srossd# !pause 
+[10:39:52] #srossd# !cont 
+[10:40:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[10:40:23] #srossd# !solve 
+[10:41:00] #srossd# help
+[10:41:05] #srossd# !cont 
+[10:41:47] #srossd# !solve 
+[10:42:15] Writing user file...
+[10:42:16] Writing channel file...
+[10:42:16] * EXIT
+[10:44:19] Telnet connection: 10.0.2.15/36206
+[10:44:19] Timeout/EOF ident connection
+[10:44:22] Logged in: srossd (telnet@10.0.2.15/36206)
+[10:44:41] #srossd# !init 
+[10:44:55] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[10:44:55] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[10:45:13] MrDarwin joined #vasb.
+[10:46:00] #vasb is active but has no ops :(
+[10:50:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[10:56:12] Last message repeated 1 time(s).
+[10:56:12] Writing user file...
+[10:56:12] Writing channel file...
+[10:56:12] * EXIT

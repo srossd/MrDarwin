@@ -1,0 +1,77 @@
+[08:08:07] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[08:08:07] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[08:08:14] MrDarwin joined #vasb.
+[08:08:17] CTCP CHAT:  from srossd (ad4f7974@ircip2.mibbit.com)
+[08:09:00] #vasb is active but has no ops :(
+[08:09:06] Telnet connection: 10.0.2.15/45412
+[08:09:06] Timeout/EOF ident connection
+[08:09:17] Logged in: srossd (telnet@10.0.2.15/45412)
+[08:09:36] #srossd# (#vasb) say Hi
+[08:10:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[08:10:47] #srossd# help
+[08:11:29] #srossd# whoami
+[08:12:03] Writing user file...
+[08:12:03] Writing channel file...
+[08:12:03] * EXIT
+[08:17:01] Telnet connection: 10.0.2.15/57240
+[08:17:01] Timeout/EOF ident connection
+[08:17:06] Logged in: srossd (telnet@10.0.2.15/57240)
+[08:17:18] #srossd# chattr srossd P
+[08:17:26] #srossd# chattr srossd Q
+[08:17:29] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[08:17:30] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[08:17:37] MrDarwin joined #vasb.
+[08:17:43] #srossd# !init 
+[08:18:00] #vasb is active but has no ops :(
+[08:18:52] Writing user file...
+[08:18:52] Writing channel file...
+[08:18:52] * EXIT
+[08:21:59] Telnet connection: 10.0.2.15/43366
+[08:21:59] Timeout/EOF ident connection
+[08:22:02] Logged in: srossd (telnet@10.0.2.15/43366)
+[08:22:30] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[08:22:30] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[08:22:38] MrDarwin joined #vasb.
+[08:22:48] #srossd# !init 
+[08:23:00] #vasb is active but has no ops :(
+[08:23:50] #srossd# !solve 
+[08:24:09] #srossd# !pause 
+[08:25:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[08:27:48] #srossd# !cont 
+[08:30:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[08:33:44] #srossd# !pause 
+[08:34:10] #srossd# !cont 
+[08:34:59] #srossd# !solve 
+[08:35:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[08:35:23] Writing user file...
+[08:35:23] Writing channel file...
+[08:35:23] * EXIT
+[08:35:28] Telnet connection: 10.0.2.15/40348
+[08:35:28] Timeout/EOF ident connection
+[08:35:32] Logged in: srossd (telnet@10.0.2.15/40348)
+[08:35:58] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[08:35:58] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[08:36:08] MrDarwin joined #vasb.
+[08:36:12] #srossd# !init 
+[08:37:00] #vasb is active but has no ops :(
+[08:37:32] #srossd# !solve 
+[08:38:33] Last message repeated 1 time(s).
+[08:38:33] #srossd# !pause 
+[08:39:22] Writing user file...
+[08:39:22] Writing channel file...
+[08:39:22] * EXIT
+[08:39:30] Telnet connection: 10.0.2.15/40376
+[08:39:30] Timeout/EOF ident connection
+[08:39:33] Logged in: srossd (telnet@10.0.2.15/40376)
+[08:40:01] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[08:40:01] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[08:40:10] MrDarwin joined #vasb.
+[08:40:14] #srossd# !init 
+[08:41:00] #vasb is active but has no ops :(
+[08:42:32] #srossd# !setscore 3
+[08:44:20] Last message repeated 1 time(s).
+[08:44:20] Tcl error in script for 'timer12':
+[08:44:20] can not find channel named "file10"
+[08:44:29] Writing user file...
+[08:44:29] Writing channel file...
+[08:44:29] * EXIT

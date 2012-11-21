@@ -1,0 +1,178 @@
+[19:57:39] --- MrDarwin joined the channel.
+[19:59:46] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1330390786 lastspoken 1330390786
+[19:59:54] ---- new user tkamath2: mask *!*62a9331f@*.mibbit.com score 0 started 1330390794 lastspoken 1330390794
+[20:00:27] --- Game initialized
+[20:00:27] #srossd# !init 
+[20:01:36] --- asking question number 0: Every triangle has how many vertices?
+[20:01:36] ---- it's the no. 1 in this game, rank timer started at: 1330390896
+[20:01:41] --- solved after 5 seconds by srossd with "3", now 4 points
+[20:01:49] --- Game paused.  Quiz state was: waittoask
+[20:01:49] #srossd# !pause 
+[20:03:55] --- Game continued.
+[20:03:55] #srossd# !cont 
+[20:03:57] --- asking question number 1: Evaluate the following expression:  10 + [8 + (2 - 10)]  (read as: 10 plus, open bracket, 8 plus, open parenthesis, 2 minus 10, close parenthesis, close bracket)
+[20:03:57] ---- it's the no. 2 in this game.
+[20:04:02] --- solved after 5 seconds by srossd with "10", now 14 points
+[20:04:17] --- asking question number 2: Which of the following instruments did Louis Pasteur use in dispelling the theory of spontaneous generation: W)  swan necked flasks with boiled and unboiled broth X)  open and closed jars with rotting meat Y)  flasks of amino acids and other organic molecules exposed to electric charges Z)  bacterial cultures inside sterile tubes
+[20:04:17] ---- it's the no. 3 in this game.
+[20:04:23] --- solved after 6 seconds by srossd with "W", now 18 points
+[20:04:23] --- srossd has three in a row.
+[20:04:37] --- asking question number 3: Which of the following is LEAST accurate: W)  basalt is the fine-grained equivalent of gabbro X)  any rock can be metamorphosed Y)  the chemical composition of magma primarily determines its texture Z)  a metamorphic rock produced from sandstone is quartzite
+[20:04:37] ---- it's the no. 4 in this game.
+[20:05:04] --- solved after 27 seconds by tkamath2 with "really?", now 10 points
+[20:05:19] --- asking question number 4: What is the most common term for the energy an object has because of its position or configuration?
+[20:05:19] ---- it's the no. 5 in this game.
+[20:05:28] --- solved after 9 seconds by tkamath2 with "Potential energy", now 14 points
+[20:05:43] --- asking question number 5: Into which of the following does a typical fern spore most directly develop: W)  sporophyte X)  egg cell Y)  gametophyte Z)  sperm cell
+[20:05:43] ---- it's the no. 6 in this game.
+[20:06:06] --- solved after 23 seconds by srossd with "Y", now 28 points
+[20:06:20] --- asking question number 6: Which of the following molecules primarily functions to carry electrons from one place to another inside a cell:  W)  NAD+ X)  ATP Y)  UTP Z)  pyruvic acid
+[20:06:20] ---- it's the no. 7 in this game.
+[20:06:25] --- solved after 5 seconds by srossd with "W", now 32 points
+[20:06:39] --- asking question number 7: What is the name of the blood vessels in vertebrate bodies where most of the exchange of oxygen and carbon dioxide occurs?
+[20:06:39] ---- it's the no. 8 in this game.
+[20:06:39] --- Game paused after 0 seconds.  Quiz state was: asked
+[20:06:39] #srossd# !pause 
+[20:07:38] --- Game continued.
+[20:07:38] #srossd# !cont 
+[20:07:45] --- solved after 1 minute 6 seconds by srossd with "capillaries", now 42 points
+[20:07:45] --- srossd has three in a row.
+[20:08:00] --- asking question number 8: What human disease is caused by infection with the rhinovirus?
+[20:08:00] ---- it's the no. 9 in this game.
+[20:08:06] --- solved after 6 seconds by srossd with "common cold", now 46 points
+[20:08:20] --- asking question number 9: Name all of the following 3 groups of plants that have no xylem:  mosses; ferns; conifers
+[20:08:20] ---- it's the no. 10 in this game.
+[20:08:29] --- solved after 9 seconds by tkamath2 with "mosses ferns", now 24 points
+[20:08:43] --- asking question number 10: Name all of the following 4 molecules that serve as neurotransmitters in vertebrates:  adrenaline; dopamine; serotonin; sphingosine  (read as: SFINGgo-seen)
+[20:08:43] ---- it's the no. 11 in this game.
+[20:10:54] --- solved after 2 minutes 11 seconds by srossd with "adrenaline; dopamine; serotonin", now 50 points
+[20:11:09] --- asking question number 11: Change the decimal 0.88 to a fraction in lowest terms:
+[20:11:09] ---- it's the no. 12 in this game.
+[20:11:17] --- solved after 8 seconds by srossd with "22/25", now 60 points
+[20:11:31] --- asking question number 12: Alkali metals all have the same: W)  number of electrons in their outer shells X)  atomic radii Y)  electronegativities Z)  melting points
+[20:11:31] ---- it's the no. 13 in this game.
+[20:11:38] --- solved after 7 seconds by srossd with "W", now 64 points
+[20:11:38] --- srossd has three in a row.
+[20:11:53] --- asking question number 13: Which of the following is NOT true of pH: W)  the terms basic or alkaline describe a solution with pH greater than 7 X)  the highest value on the pH scale is 14  Y)  strong acids dissociate almost completely in water Z)  a pH meter operates by measuring small differences in the density of different fluids
+[20:11:53] ---- it's the no. 14 in this game.
+[20:12:00] --- solved after 7 seconds by tkamath2 with "Z", now 34 points
+[20:12:15] --- asking question number 14: What astronomical unit for distance is derived from the parallax of one second of arc?
+[20:12:15] ---- it's the no. 15 in this game.
+[20:12:21] --- solved after 6 seconds by srossd with "parsec", now 68 points
+[20:12:51] --- asking question number 15: What anatomical structure in boney fish allows them to adjust their buoyancy and stay afloat without swimming?
+[20:12:51] ---- it's the no. 16 in this game.
+[20:15:20] --- solved after 2 minutes 29 seconds by tkamath2 with "swimbladder", now 44 points
+[20:15:34] --- asking question number 16: Which of the following plants is sometimes called a fiddlehead when it is immature: W)  maple tree X)  tulip Y)  moss Z)  fern
+[20:15:34] ---- it's the no. 17 in this game.
+[20:15:40] --- solved after 6 seconds by srossd with "Z", now 72 points
+[20:15:54] --- asking question number 17: What human gland releases thyroid-stimulating hormone and oxytocin (read as: OX-ee-TOE-sin) into the blood?
+[20:15:54] ---- it's the no. 18 in this game.
+[20:16:07] --- solved after 13 seconds by tkamath2 with "pituitary gland", now 54 points
+[20:16:21] --- asking question number 18: A screw driver and a doorknob are considered variations of what simple machine?
+[20:16:21] ---- it's the no. 19 in this game.
+[20:16:29] --- solved after 8 seconds by srossd with "Wheel and Axle", now 76 points
+[20:16:44] --- asking question number 19: If a car travels at a rate of 50 miles per hour, what is the distance, in miles, traveled in 5 hours?
+[20:16:44] ---- it's the no. 20 in this game.
+[20:16:50] --- solved after 6 seconds by tkamath2 with "250 miles", now 64 points
+[20:17:06] --- asking question number 20: Which of the following is CLOSEST to the volume of 4 liters in quarts: W)  3.8 X)  4.0 Y)  4.2 Z)  4.4
+[20:17:06] ---- it's the no. 21 in this game.
+[20:17:13] --- solved after 7 seconds by srossd with "Y", now 80 points
+[20:17:27] --- asking question number 21: Which of the following is TRUE of gases: W)  they have a definite shape X)  they are highly compressible Y)  they behave like a fluid Z)  their particles are in uniform motion
+[20:17:27] ---- it's the no. 22 in this game.
+[20:17:33] --- solved after 6 seconds by srossd with "X", now 90 points
+[20:17:48] --- asking question number 22: Which of the following terms is used most often by astronomers for the total energy emitted per unit time from a star: W)  apparent magnitude X)  watts Y)  luminosity Z)  stellar unit
+[20:17:48] ---- it's the no. 23 in this game.
+[20:17:54] --- solved after 6 seconds by tkamath2 with "Y", now 68 points
+[20:18:08] --- asking question number 23: Which of the following is TRUE of the Richter Scale: W)  values are always given in whole numbers X)  an earthquake measuring 5 has 50-times more energy than an earthquake measuring 4 Y)  it is based on a scale of 0 to 14 Z)  it is based on a logarithmic scale
+[20:18:08] ---- it's the no. 24 in this game.
+[20:18:21] --- solved after 13 seconds by srossd with "Z", now 100 points
+[20:18:36] --- asking question number 24: Rounded to the nearest whole number, what is the specific gravity of water at standard temperature and pressure?
+[20:18:36] ---- it's the no. 25 in this game.
+[20:18:41] --- solved after 5 seconds by tkamath2 with "1", now 72 points
+[20:18:55] --- asking question number 25: What substance is most directly formed when oxygen accepts electrons at the end of the electron transport system of oxidative phosphorylation?
+[20:18:55] ---- it's the no. 26 in this game.
+[20:19:02] --- solved after 7 seconds by srossd with "Water", now 110 points
+[20:19:17] --- asking question number 26: Arrange the following 3 pure substances in order of INCREASING evaporation rates at 1 atmosphere of pressure and at room temperature:  water; acetone; aluminum
+[20:19:17] ---- it's the no. 27 in this game.
+[20:19:28] --- solved after 11 seconds by srossd with "aluminum; water; acetone", now 114 points
+[20:19:42] --- asking question number 27: What is the most common term for the type of symbiosis where one organism benefits and the other is neither significantly harmed nor helped by the interaction?
+[20:19:42] ---- it's the no. 28 in this game.
+[20:19:48] --- solved after 6 seconds by tkamath2 with "commensalism", now 82 points
+[20:20:03] --- asking question number 28: The outdoor temperature at 6:00 AM is -8ºC.  If it rises at a rate of 3ºC per hour, what is the temperature, in degrees Celsius, at noon?
+[20:20:03] ---- it's the no. 29 in this game.
+[20:20:09] --- solved after 6 seconds by srossd with "10", now 118 points
+[20:20:23] --- asking question number 29: If an animal has 42 chromosomes in its normal, non-gamete or somatic cells, what term would be given to the gametes that have 21 chromosomes: W)  somatic X)  unigentic Y)  haploid Z)  solitary
+[20:20:23] ---- it's the no. 30 in this game.
+[20:20:29] --- solved after 6 seconds by srossd with "Y", now 128 points
+[20:20:44] --- asking question number 30: Which of the following is a semi-permanent high pressure system that sits over the Atlantic Ocean during summer: W)  South Atlantic High X)  Floridian High  Y)  North American High Z)  Bermuda High
+[20:20:44] ---- it's the no. 31 in this game.
+[20:20:51] --- solved after 7 seconds by tkamath2 with "Z", now 86 points
+[20:21:06] --- asking question number 31: What sugar is found in the backbone of DNA?
+[20:21:06] ---- it's the no. 32 in this game.
+[20:21:38] --- solved after 32 seconds by srossd with "deoxyribose", now 138 points
+[20:22:07] --- asking question number 32: Which of the following is considered the dominant generation in flowering plants: W)  hypocotyl  X)  sporophyte Y)  gametophyte Z)  anthophyte
+[20:22:07] ---- it's the no. 33 in this game.
+[20:22:12] --- solved after 5 seconds by srossd with "X", now 142 points
+[20:22:27] --- asking question number 33: Find a number such that 10-times the number reduced by 3 equals 4-times the number increased by 15:
+[20:22:27] ---- it's the no. 34 in this game.
+[20:22:42] --- solved after 15 seconds by srossd with "3", now 152 points
+[20:22:42] --- srossd has three in a row.
+[20:22:56] --- asking question number 34: Solve the following equation for x:  256 = 2^(x + 1)
+[20:22:56] ---- it's the no. 35 in this game.
+[20:23:00] --- solved after 4 seconds by srossd with "7", now 156 points
+[20:23:15] --- asking question number 35: Which of the following is a true tidal wave: W)  tsunami X)  tidal bore Y)  rip current Z)  tidal range
+[20:23:15] ---- it's the no. 36 in this game.
+[20:23:21] --- solved after 6 seconds by srossd with "X", now 166 points
+[20:23:21] --- srossd has five in a row.  score++
+[20:23:21] --- rankset requested by MrDarwin: srossd +1
+[20:23:27] <<srossd>> !srossd! !score 
+[20:23:36] --- asking question number 36: The behavior of light has lead scientists to generally consider light as behaving as:  W)  a particle only X)  a wave only Y)  the most basic energy source Z)  particles and waves
+[20:23:36] ---- it's the no. 37 in this game.
+[20:23:42] --- solved after 6 seconds by tkamath2 with "Z", now 90 points
+[20:23:57] --- asking question number 37: Which of the following is NOT true of the ozone layer: W)  beneficial stratospheric ozone is produced naturally and harmful tropospheric ozone is humanmade X)  the ozone molecule has 3 oxygen atoms Y)  in addition to chlorine, bromine is also responsible for combining with and breaking down the ozone molecule Z)  holes in the ozone layer are produced by global warming
+[20:23:57] ---- it's the no. 38 in this game.
+[20:24:06] --- solved after 9 seconds by srossd with "Z", now 177 points
+[20:24:20] --- asking question number 38: Sue and Sierra are making necklaces.  If Sue makes an average of 3 every 30 minutes and Sierra averages 6 every hour, how many necklaces do they average every hour if they work together?
+[20:24:20] ---- it's the no. 39 in this game.
+[20:24:29] --- solved after 9 seconds by tkamath2 with "12", now 94 points
+[20:24:43] --- asking question number 39: Give the numerical value of 20 factorial divided by 18 factorial:
+[20:24:43] ---- it's the no. 40 in this game.
+[20:24:50] --- solved after 7 seconds by srossd with "380", now 187 points
+[20:25:04] --- asking question number 40: Which of the following best describes what occurs to the solar wind as it approaches close to the planet Earth: W)  it is absorbed by the troposphere and significantly heats the upper atmosphere X)  it forms cosmic rays that create the Van Allen belts Y)  it is largely deflected by the Earth's magnetosphere  Z)  it causes a shock wave to form, creating what is called a termination shock in the Earth's ionosphere
+[20:25:04] ---- it's the no. 41 in this game.
+[20:25:13] --- solved after 9 seconds by srossd with "Y", now 191 points
+[20:25:27] --- asking question number 41: What is the SI base unit for length?
+[20:25:27] ---- it's the no. 42 in this game.
+[20:25:31] --- solved after 4 seconds by tkamath2 with "meter", now 104 points
+[20:25:45] --- asking question number 42: Which of the following is the best example of a graph of ordered pairs that directly shows how much one variable is directly affected by another: W)  box-and-whiskers plot  X)  scatter plot Y)  histogram Z)  pie chart
+[20:25:45] ---- it's the no. 43 in this game.
+[20:25:52] --- solved after 7 seconds by srossd with "X", now 195 points
+[20:26:22] --- asking question number 43: Measuring at 2 feet in length, the hellbender, commonly known as a snot otter or devil dog, found in many streams in the Appalachian and Ozark Mountains of the Eastern United States, are one of the larges species of: W)  salamanders X)  jawless fish Y)  giant catfish Z)  bright, red-colored frogs with horn-like ears
+[20:26:22] ---- it's the no. 44 in this game.
+[20:26:33] --- solved after 11 seconds by tkamath2 with "aoiwsepdfj;;;;;;;;;;;;;;;;; e", now 114 points
+[20:26:48] --- asking question number 44: What color light will be produced when combining equal proportions of green and blue light?
+[20:26:48] ---- it's the no. 45 in this game.
+[20:28:15] --- solved after 1 minute 27 seconds by tkamath2 with "cyan", now 118 points
+[20:28:29] --- asking question number 45: On the earth's surface, which of the following is CLOSEST to the mass of 1,000 pounds: W)  454 kilograms X)  2,200 kilograms Y)  1 ton Z)  1 kiloton
+[20:28:29] ---- it's the no. 46 in this game.
+[20:28:45] --- solved after 16 seconds by tkamath2 with "W", now 128 points
+[20:28:45] --- tkamath2 has three in a row.
+[20:29:00] --- asking question number 46: Multiply the following 2 radicals, giving your answer as a whole number:  (4sqrt5)(2sqrt5)
+[20:29:00] ---- it's the no. 47 in this game.
+[20:29:05] --- solved after 5 seconds by srossd with "40", now 199 points
+[20:29:20] --- asking question number 47: What is the most common term for the biological polymer found in chromosomes that stores genetic information?
+[20:29:20] ---- it's the no. 48 in this game.
+[20:29:25] --- solved after 5 seconds by srossd with "dna", now 209 points
+[20:29:25] --- new month, reloading allstars table
+[20:29:25] --- reading allstars list from moxquizz/quizdata/rankallstars.data
+[20:29:25] ---- allstar line not recognized: "".
+[20:29:25] ---- allstars list successfully read (1 users).
+[20:29:25] --- saved srossd with 0.8164669031930469 points (now 0.816 points, pos 1) to the allstars file. Time: 1330392565
+[20:29:25] --- Ranks reset by MrDarwin at 1330392565.
+[20:29:26] ---- new user tkamath2: mask *!*62a9331f@*.mibbit.com score 0 started 1330392566 lastspoken 1330392566
+[20:29:31] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1330392571 lastspoken 1330392571
+[20:29:48] <<srossd>> !srossd! !allstars 
+[20:29:54] --- asking question number 48: Order the following 4 colors of light from the one with the LONGEST wavelength to the SHORTEST wavelength:  orange; violet; red; yellow
+[20:29:54] ---- it's the no. 1 in this game, rank timer started at: 1330392594
+[20:30:23] --- Game stopped.
+[20:30:23] #srossd# !stop 

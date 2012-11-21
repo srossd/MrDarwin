@@ -1,0 +1,47 @@
+[17:57:34] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[17:57:44] MrDarwin joined #vasb.
+[17:58:00] #vasb is active but has no ops :(
+[17:59:01] CTCP CHAT:  from srossd (ad4f7974@ircip1.mibbit.com)
+[17:59:11] Telnet connection: 10.0.2.15/60954
+[17:59:11] Timeout/EOF ident connection
+[17:59:19] Bad Password: [srossd]telnet@10.0.2.15/60954
+[17:59:41] Telnet connection: 10.0.2.15/53812
+[17:59:41] Timeout/EOF ident connection
+[17:59:45] Logged in: srossd (telnet@10.0.2.15/53812)
+[17:59:56] #srossd# notes read 
+[18:00:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[18:00:00] Writing user file...
+[18:00:00] Writing channel file...
+[18:00:00] Expired 2 notes
+[18:00:17] #srossd# help
+[18:01:14] #srossd# (#vasb) say hi
+[18:05:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[18:24:23] Last message repeated 3 time(s).
+[18:24:23] #srossd# chattr srossd +P
+[18:25:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[18:28:29] #srossd# !init 
+[18:30:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[18:30:18] #srossd# !pause 
+[18:30:34] #srossd# !setscore srossd 0
+[18:31:04] #srossd# !cont 
+[18:31:27] #srossd# !setscore srossd 4
+[18:31:38] #srossd# !setscore 7
+[18:31:53] #srossd# !pause 
+[18:35:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[18:35:19] #srossd# !cont 
+[18:36:05] #srossd# !skip 
+[18:36:19] #srossd# !reset 
+[18:40:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[19:00:00] Last message repeated 4 time(s).
+[19:00:00] Writing user file...
+[19:00:00] Writing channel file...
+[19:05:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[20:00:00] Last message repeated 11 time(s).
+[20:00:00] Writing user file...
+[20:00:00] Writing channel file...
+[20:05:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[21:00:00] Last message repeated 11 time(s).
+[21:00:00] Writing user file...
+[21:00:00] Writing channel file...
+[21:05:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[21:10:00] #vasb (+) : [m/1 o/0 h/0 v/0 n/1 b/0 e/0 I/0]

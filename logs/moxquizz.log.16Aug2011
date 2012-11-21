@@ -1,0 +1,17 @@
+[13:43:07] CTCP VERSION:  from evMON (~dronemon@127.0.0.1)
+[13:43:08] CTCP VERSION:  from EVRUSzerg (~zerg@172.16.10.8)
+[13:43:16] MrDarwin joined #vasb.
+[13:44:00] #vasb is active but has no ops :(
+[13:44:10] CTCP CHAT:  from srossd (ad4f7974@ircip3.mibbit.com)
+[13:44:21] Telnet connection: 10.0.2.15/56125
+[13:44:21] Timeout/EOF ident connection
+[13:44:27] Logged in: srossd (telnet@10.0.2.15/56125)
+[13:45:00] #vasb (+) : [m/2 o/0 h/0 v/0 n/2 b/0 e/0 I/0]
+[13:45:06] #srossd# !setscore 3
+[13:45:38] #srossd# !solve 
+[13:46:19] #srossd# !setscore 25
+[13:46:35] #srossd# !setscore 10000000000
+[13:47:23] #srossd# !setscore 50
+[13:48:27] Writing user file...
+[13:48:27] Writing channel file...
+[13:48:27] * EXIT

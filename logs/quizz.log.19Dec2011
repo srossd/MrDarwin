@@ -1,0 +1,56 @@
+[17:57:44] --- MrDarwin joined the channel.
+[17:59:56] #srossd# notes read 
+[18:00:17] #srossd# help
+[18:01:14] #srossd# (#vasb) say hi
+[18:24:23] #srossd# chattr srossd +P
+[18:28:29] --- Game initialized
+[18:28:29] #srossd# !init 
+[18:28:36] ---- new user srossd: mask *!*ad4f7974@*.mibbit.com score 0 started 1324337316 lastspoken 1324337316
+[18:28:36] --- asking question number 0: How many valence electrons are in an oxygen atom, which resides in group 16 or 6A of the Periodic Table?
+[18:28:36] ---- it's the no. 1 in this game, rank timer started at: 1324337316
+[18:28:42] --- solved after 6 seconds by srossd with "6", now 4 points
+[18:28:57] --- asking question number 1: A mangrove coast is likely to be found in which of the following locations: W)  Alaskan Peninsula X)  Hawaiian Islands Y)  Florida Z)  Maine
+[18:28:57] ---- it's the no. 2 in this game.
+[18:29:02] --- solved after 5 seconds by srossd with "Y", now 14 points
+[18:29:17] --- asking question number 2: Most biological catalysts are: W)  proteins X)  vitamins Y)  carbohydrates Z)  lipids
+[18:29:17] ---- it's the no. 3 in this game.
+[18:29:22] --- solved after 5 seconds by srossd with "W", now 18 points
+[18:29:22] --- srossd has three in a row.
+[18:29:36] --- asking question number 3: If a line has a slope of 10, what is the slope of every line that is perpendicular to it?
+[18:29:36] ---- it's the no. 4 in this game.
+[18:29:42] --- solved after 6 seconds by srossd with "-1/10", now 28 points
+[18:29:57] --- asking question number 4: Assuming log 2 = 0.3 and log 3 = 0.5, find log 6:
+[18:29:57] ---- it's the no. 5 in this game.
+[18:30:05] --- solved after 8 seconds by srossd with "0.8", now 32 points
+[18:30:05] --- srossd has five in a row.  score++
+[18:30:05] --- rankset requested by MrDarwin: srossd +1
+[18:30:18] --- Game paused.  Quiz state was: waittoask
+[18:30:18] #srossd# !pause 
+[18:30:34] --- set_score by srossd: srossd 0
+[18:30:34] #srossd# !setscore srossd 0
+[18:31:04] --- Game continued.
+[18:31:04] #srossd# !cont 
+[18:31:06] --- asking question number 5: Rounded to the nearest whole number, how many degrees is the Moon inclined with respect to the orbit of the Earth about the Sun?
+[18:31:06] ---- it's the no. 6 in this game.
+[18:31:15] --- solved after 9 seconds by srossd with "5", now 43 points
+[18:31:27] --- set_score by srossd: srossd 4
+[18:31:27] #srossd# !setscore srossd 4
+[18:31:30] --- asking question number 6: Which of the following is a type of star that is extremely useful in measuring large distances across the universe and led to the discovery that the universe is much bigger than just our Milky Way galaxy: W)  eclipsing binaries X)  Wolf-Rayets Y)  Cepheid variables  Z)  neutrons
+[18:31:30] ---- it's the no. 7 in this game.
+[18:31:38] --- set_score by srossd: 7
+[18:31:38] #srossd# !setscore 7
+[18:31:46] --- solved after 16 seconds by srossd with "Y", now 50 points
+[18:31:53] --- Game paused.  Quiz state was: waittoask
+[18:31:53] #srossd# !pause 
+[18:35:19] --- Game continued.
+[18:35:19] #srossd# !cont 
+[18:35:22] --- asking question number 7: Ebony has taken 5 math tests and averaged 90% on her first 2 tests but averaged 100% on the next 3 tests.  What is her overall percent average after these 5 tests, assuming all are weighted equally?
+[18:35:22] ---- it's the no. 8 in this game.
+[18:35:40] --- solved after 18 seconds by srossd with "96", now 60 points
+[18:35:54] --- asking question number 8: Which of the following is NOT true about earthquakes: W)  the focus of an earthquake is the point from which energy is released X)  the epicenter is the point on Earth's surface directly above the focus Y)  lithospheric plate interactions commonly cause both earthquakes and volcanoes Z)  primary seismic waves cause the most damage to buildings during an earthquake
+[18:35:54] ---- it's the no. 9 in this game.
+[18:36:05] #srossd# !skip 
+[18:36:19] --- Game stopped.
+[18:36:19] --- Ranks reset by srossd at 1324337779.
+[18:36:19] --- Game initialized
+[18:36:19] #srossd# !reset 
